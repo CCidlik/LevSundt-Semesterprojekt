@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NRfdbJcH6x6ZejRePa50SDy5J9tkGBpjfIUSXdSVhbM=",
+  "Hash": "Ftx2zmal65IPSrK2dvmM+zxsqr3hKyeHrp0ZowwbcEc=",
   "Source": "LevSundt-Semesterprojekt",
   "BasePath": "_content/LevSundt-Semesterprojekt",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\billeder\\Pandekager3edited.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\wwwroot\\css\\homemadestyle.css",
+      "SourceId": "LevSundt-Semesterprojekt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\wwwroot\\",
+      "BasePath": "_content/LevSundt-Semesterprojekt",
+      "RelativePath": "css/homemadestyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\homemadestyle.css"
     },
     {
       "Identity": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\wwwroot\\css\\site.css",
