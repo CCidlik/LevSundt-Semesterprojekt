@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/LevSundt_Semesterprojekt.styles.css" asp-append-version="true" />
 </head>
-<body class="d-flex flex-column min-vh-100">
+<body style="margin-bottom:0;" class="d-flex flex-column min-vh-100">
     
 <div class="p-5 bg-primary text-white text-center">
   <h1>Lev Sundt</h1>
@@ -38,8 +38,23 @@
             @RenderBody()
         </main>
     </div>
-<div class="mt-auto p-4 bg-dark text-white text-center">
-  <p>Footer</p>
+
+<div class="navbar mt-auto text-white text-center"  style="padding-bottom:0;">
+   <div class="col p-3 bg-primary text-white">
+        <h1>partner</h1>
+        <p>Din mor</p>
+        <p>Hotellet vi hygger på</p>
+    </div>
+    <div class="col p-3 bg-primary text-white">
+        <h1>kontakt</h1>
+        <p>tlf:424242442</p>
+        <p>email:dinmorsemail@dinmor.dk</p>
+    </div>
+    <div class="col p-3 bg-primary text-white">
+        <h1>Support</h1>
+        <p>tlf:424242442</p>
+        <p>email:dinmorsemail@dinmor.dk</p>
+    </div>
 </div>
 
 
