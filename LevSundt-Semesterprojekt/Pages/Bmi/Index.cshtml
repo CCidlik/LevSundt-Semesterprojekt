@@ -1,0 +1,34 @@
+﻿@page
+@model LevSundt_Semesterprojekt.Pages.Bmi.IndexModel
+@{
+}
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+ <section class="container-fluid">
+<form method="post">
+    <h1>BMI Beregner</h1>
+    <p>Højde i meter</p>
+    <input type ="text" asp-for="BmiModel.Hight" />
+
+    <p>Vægt i kilogram</p>
+    <input type ="text" asp-for="BmiModel.Wight"/>
+    <p>@Model.BmiModel.Bmi</p>
+        <p>@Model.BmiModel.BmiCategori</p>
+        <article>
+    <button class="btn-primary">Beregn din BMI</button>
+   </article>
+   
+    
+    
+<article class="@Model.BmiModel.BmiAlert">
+    <button type="button" class="@Model.BmiModel.DismissAlertBtn" data-bs-dismiss="@Model.BmiModel.DismissAlertBtnText"></button>
+    <strong>@Model.BmiModel.DangerTextBtn</strong> @Model.BmiModel.BmiAlertMessege
+  </article>
+
+   
+   
+
+
+</form>
+</section>
