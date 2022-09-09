@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ftx2zmal65IPSrK2dvmM+zxsqr3hKyeHrp0ZowwbcEc=",
+  "Hash": "48FWKnbkoFmewOnpXMDVAV2FN6V1aG/TMgtuXebIbZg=",
   "Source": "LevSundt-Semesterprojekt",
   "BasePath": "_content/LevSundt-Semesterprojekt",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LevSundt-Semesterprojekt.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\wwwroot\\billeder\\appel.jpg",
+      "SourceId": "LevSundt-Semesterprojekt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\wwwroot\\",
+      "BasePath": "_content/LevSundt-Semesterprojekt",
+      "RelativePath": "billeder/appel.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\billeder\\appel.jpg"
     },
     {
       "Identity": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\wwwroot\\billeder\\pandekage2edited.jpg",
