@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="~/LevSundt_Semesterprojekt.styles.css" asp-append-version="true" />
      <link rel="stylesheet" href="~/css/homemadestyle.css" asp-append-version="true" />
 </head>
-<body style="margin-bottom:0;" class="d-flex flex-column min-vh-100">
+<body class="d-flex flex-column min-vh-100">
     
 <div class="p-5 bg-primary text-white text-center">
   <h1>Lev Sundt</h1>
@@ -34,31 +34,23 @@
     </ul>
   </div>
 </nav>
- <div class="container bg-dark text-white">
-        <main role="main" class="pb-3">
+ <div class="container Content-Background margin-0">
+        <main role="main" class="pb-3 margin-0">
             @RenderBody()
         </main>
     </div>
 
-<div class="navbar mt-auto text-white text-center"  style="padding-bottom:0;">
-   <div class="col p-3 bg-primary text-white">
-        <h1>partner</h1>
-        <p>Din mor</p>
-        <p>Hotellet vi hygger på</p>
-    </div>
-    <div class="col p-3 bg-primary text-white">
-        <h1>kontakt</h1>
-        <p>tlf:424242442</p>
-        <p>email:dinmorsemail@dinmor.dk</p>
-    </div>
-    <div class="col p-3 bg-primary text-white">
-        <h1>Support</h1>
-        <p>tlf:424242442</p>
-        <p>email:dinmorsemail@dinmor.dk</p>
-    </div>
+<div class="navbar mt-auto text-white text-center margin-0 padding-0 row-cols-3 height-100">
+   
+  
+  
 </div>
 
-
+<footer class="container-fluid text-center footer-background textcolorwhite">
+  <h1>Kontakt</h1>  
+  <p>telf:424242424</p>
+  <p>email:Dinmor@gmail.dk</p>
+</footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
