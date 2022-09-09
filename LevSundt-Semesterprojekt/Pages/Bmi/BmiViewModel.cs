@@ -11,7 +11,6 @@
 
         public string? DismissAlertBtn { get; set; }
         public string? DismissAlertBtnText { get; set; }
-
         public string? DangerTextBtn { get; set; }
     }
 }
