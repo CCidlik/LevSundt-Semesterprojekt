@@ -24,3 +24,29 @@ C:\Users\CIDLIK\OneDrive\Skole\UCL\3 Semester\Programmering Kaj\Semesterprojekt\
 C:\Users\CIDLIK\OneDrive\Skole\UCL\3 Semester\Programmering Kaj\Semesterprojekt\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\LevSundt-Semesterprojekt.pdb
 C:\Users\CIDLIK\OneDrive\Skole\UCL\3 Semester\Programmering Kaj\Semesterprojekt\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\LevSundt-Semesterprojekt.genruntimeconfig.cache
 C:\Users\CIDLIK\OneDrive\Skole\UCL\3 Semester\Programmering Kaj\Semesterprojekt\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\ref\LevSundt-Semesterprojekt.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\appsettings.json
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\LevSundt-Semesterprojekt.staticwebassets.runtime.json
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\LevSundt-Semesterprojekt.exe
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\LevSundt-Semesterprojekt.deps.json
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\LevSundt-Semesterprojekt.runtimeconfig.json
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\LevSundt-Semesterprojekt.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\LevSundt-Semesterprojekt.pdb
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\LevSundt-Semesterprojekt.csproj.AssemblyReference.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\LevSundt-Semesterprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\LevSundt-Semesterprojekt.AssemblyInfoInputs.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\LevSundt-Semesterprojekt.AssemblyInfo.cs
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\LevSundt-Semesterprojekt.csproj.CoreCompileInputs.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\LevSundt-Semesterprojekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\LevSundt-Semesterprojekt.RazorAssemblyInfo.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\LevSundt-Semesterprojekt.RazorAssemblyInfo.cs
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\scopedcss\bundle\LevSundt-Semesterprojekt.styles.css
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\scopedcss\projectbundle\LevSundt-Semesterprojekt.bundle.scp.css
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\LevSundt-Semesterprojekt.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\refint\LevSundt-Semesterprojekt.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\LevSundt-Semesterprojekt.pdb
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\LevSundt-Semesterprojekt.genruntimeconfig.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\ref\LevSundt-Semesterprojekt.dll
