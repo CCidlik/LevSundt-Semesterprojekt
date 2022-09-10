@@ -5,26 +5,25 @@
 
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
 
- <section class="container-fluid">
-<form method="post">
-    <h1>BMI Beregner</h1>
-    <p>Højde i meter</p>
-    <input type ="text" asp-for="BmiModel.Hight" />
-
-    <p>Vægt i kilogram</p>
-    <input type ="text" asp-for="BmiModel.Wight"/>
-    <p>@Model.BmiModel.Bmi</p>
+<section class="container-fluid">
+    <form method="post">
+        <h1>BMI Beregner</h1>
+        <p>Højde i meter</p>
+        <input type ="text" asp-for="BmiModel.Hight" />
+        <p>Vægt i kilogram</p>
+        <input type ="text" asp-for="BmiModel.Wight"/>
+        <p>@Model.BmiModel.Bmi</p>
         <p>@Model.BmiModel.BmiCategori</p>
         <article>
-    <button class="btn-primary">Beregn din BMI</button>
-   </article>
+            <button class="btn-primary">Beregn din BMI</button>
+        </article>
    
         <article class="@Model.Buttonalert.AlertArticalCss">
-        <button @Model.Buttonalert.AlertButtonhidden type="button" class="@Model.Buttonalert.AlertButtonCss" data-bs-dismiss="alert"></button>
-        <strong>@Model.Buttonalert.AlertStrongText</strong> @Model.Buttonalert.AlertPText
+            <button @Model.Buttonalert.AlertButtonhidden type="button" class="@Model.Buttonalert.AlertButtonCss" data-bs-dismiss="alert"></button>
+            <strong>@Model.Buttonalert.AlertStrongText</strong> @Model.Buttonalert.AlertPText
         </article>
    
 
 
-</form>
+    </form>
 </section>
