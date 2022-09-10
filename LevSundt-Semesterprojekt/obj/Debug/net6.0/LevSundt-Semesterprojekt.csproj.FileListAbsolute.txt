@@ -57,7 +57,6 @@ C:\Users\Rasmus\source\repos\3. Semester\Eksamensprojekt\LevSundt-Semesterprojek
 C:\Users\Rasmus\source\repos\3. Semester\Eksamensprojekt\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\LevSundt-Semesterprojekt.deps.json
 C:\Users\Rasmus\source\repos\3. Semester\Eksamensprojekt\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\LevSundt-Semesterprojekt.runtimeconfig.json
 C:\Users\Rasmus\source\repos\3. Semester\Eksamensprojekt\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\LevSundt-Semesterprojekt.dll
-C:\Users\Rasmus\source\repos\3. Semester\Eksamensprojekt\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\ref\LevSundt-Semesterprojekt.dll
 C:\Users\Rasmus\source\repos\3. Semester\Eksamensprojekt\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\LevSundt-Semesterprojekt.pdb
 C:\Users\Rasmus\source\repos\3. Semester\Eksamensprojekt\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\LevSundt-Semesterprojekt.csproj.AssemblyReference.cache
 C:\Users\Rasmus\source\repos\3. Semester\Eksamensprojekt\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\LevSundt-Semesterprojekt.GeneratedMSBuildEditorConfig.editorconfig
@@ -76,3 +75,4 @@ C:\Users\Rasmus\source\repos\3. Semester\Eksamensprojekt\LevSundt-Semesterprojek
 C:\Users\Rasmus\source\repos\3. Semester\Eksamensprojekt\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\ref\LevSundt-Semesterprojekt.dll
 C:\Users\Rasmus\source\repos\3. Semester\Eksamensprojekt\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\LevSundt-Semesterprojekt.pdb
 C:\Users\Rasmus\source\repos\3. Semester\Eksamensprojekt\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\LevSundt-Semesterprojekt.genruntimeconfig.cache
+C:\Users\Rasmus\source\repos\3. Semester\Eksamensprojekt\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\ref\LevSundt-Semesterprojekt.dll
