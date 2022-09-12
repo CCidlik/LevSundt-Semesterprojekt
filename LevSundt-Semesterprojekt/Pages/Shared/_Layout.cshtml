@@ -7,49 +7,69 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/LevSundt_Semesterprojekt.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/homemadestyle.css" asp-append-version="true" />
 </head>
-<body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container">
-                <a class="navbar-brand" asp-area="" asp-page="/Index">LevSundt_Semesterprojekt</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
-                        </li>
+<body class="d-flex flex-column min-vh-100">
+    
+<div class="p-5 bg-primary text-white text-center">
+  <h1>Lev Sundt</h1>
+  <p>Med Responsivt css!!!</p> 
+</div>
 
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Bmi/Index">BMI Beregner</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/ConstructionSite">Menu 1</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
-                        </li>
-
-                    </ul>
-                </div>
-            </div>
-        </nav>
-    </header>
-    <div class="container">
+<nav class="navbar navbar-expand-md bg-dark navbar-dark h2 justify-content-center margin-0">
+  <div class="container-fluid justify-content-center">
+    <ul class="navbar-nav justify-content-center">
+      <li class="nav-item">
+          <a asp-area="" asp-page="/Index"><img class="rounded-circle" src="/billeder/appel.jpg"/></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" asp-area="" asp-page="/Bmi/index">Bmi</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" asp-area="" asp-page="/ConstructionSite">Menu1</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" asp-area="" asp-page="/Privacy">Privacy</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+ <div class="container Content-Background margin-0">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2022 - LevSundt_Semesterprojekt - <a asp-area="" asp-page="/Privacy">Privacy</a>
-        </div>
-    </footer>
+<div class="navbar mt-auto text-white text-center margin-0 padding-0 row-cols-3 height-100">
+   
+  
+  
+</div>
 
+<footer class="container-fluid text-center footer-background text-white">
+    <div class="row">
+    <div class="col p-3 bg-dark">
+  <h1>Kontakt</h1>  
+  <p>telf:424242424</p>
+  <p>email:Dinmor@gmail.dk</p>
+  </div>
+  <div class="col p-3 bg-dark">
+  <h1>Kontakt</h1>  
+  <p>telf:424242424</p>
+  <p>email:Dinmor@gmail.dk</p>
+  </div>
+   <div class="col p-3 bg-dark">
+  <h1>Kontakt</h1>  
+  <p>telf:424242424</p>
+  <p>email:Dinmor@gmail.dk</p>
+  </div>
+  <div class="col p-3 bg-dark">
+  <h1>Kontakt</h1>  
+  <p>telf:424242424</p>
+  <p>email:Dinmor@gmail.dk</p>
+  </div>
+  </div>
+</footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
