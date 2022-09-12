@@ -16,12 +16,11 @@
   <p>Med Responsivt css!!!</p> 
 </div>
 
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-  <div class="container-fluid">
-    <ul class="navbar-nav">
+<nav class="navbar navbar-expand-md bg-dark navbar-dark h2 justify-content-center margin-0">
+  <div class="container-fluid justify-content-center">
+    <ul class="navbar-nav justify-content-center">
       <li class="nav-item">
           <a asp-area="" asp-page="/Index"><img class="rounded-circle" src="/billeder/appel.jpg"/></a>
-
       </li>
       <li class="nav-item">
         <a class="nav-link" asp-area="" asp-page="/Bmi/index">Bmi</a>
@@ -36,7 +35,7 @@
   </div>
 </nav>
  <div class="container Content-Background margin-0">
-        <main role="main" class="pb-3 margin-0">
+        <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
