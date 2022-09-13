@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="wwwroot\billeder\" />
     <Folder Include="wwwroot\Media\Audio\" />
-    <Folder Include="wwwroot\Media\Images\" />
     <Folder Include="wwwroot\Media\Videos\" />
   </ItemGroup>
 

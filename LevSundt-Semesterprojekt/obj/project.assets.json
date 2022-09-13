@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Rasmus\\.nuget\\packages\\": {},
+    "C:\\Users\\marc\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rasmus\\source\\repos\\3. Semester\\Eksamensprojekt\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt.csproj",
+      "projectUniqueName": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt.csproj",
       "projectName": "LevSundt-Semesterprojekt",
-      "projectPath": "C:\\Users\\Rasmus\\source\\repos\\3. Semester\\Eksamensprojekt\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt.csproj",
-      "packagesPath": "C:\\Users\\Rasmus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rasmus\\source\\repos\\3. Semester\\Eksamensprojekt\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\obj\\",
+      "projectPath": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt.csproj",
+      "packagesPath": "C:\\Users\\marc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Rasmus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
