@@ -8,7 +8,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\billeder\" />
+    <Compile Remove="wwwroot\billeder\**" />
+    <Content Remove="wwwroot\billeder\**" />
+    <EmbeddedResource Remove="wwwroot\billeder\**" />
+    <None Remove="wwwroot\billeder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="wwwroot\Media\Audio\" />
     <Folder Include="wwwroot\Media\Videos\" />
   </ItemGroup>
