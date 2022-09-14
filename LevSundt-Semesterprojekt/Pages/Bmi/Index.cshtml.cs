@@ -10,6 +10,7 @@ namespace LevSundt_Semesterprojekt.Pages.Bmi
         public BmiViewModel BmiModel { get; set; } = new();
         public buttonobjecct Buttonalert { get; set; } = new();
 
+
         public void OnGet()
         {
         }  
