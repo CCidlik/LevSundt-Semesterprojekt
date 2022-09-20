@@ -1,7 +1,16 @@
+using LevSundt.Bmi.Application.Commands;
+using LevSundt.Bmi.Application.Commands.Implementation;
+using LevSundt.Bmi.Application.Repositories;
+using LevSundt.Bmi.Infrastructor.Repositories;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+
+//Clean Architecture
+builder.Services.AddScoped<ICreateBmiCommand, CreateBmiCommand>();
+builder.Services.AddScoped<IBmiRepository, BmiRepository>();
 
 var app = builder.Build();
 
