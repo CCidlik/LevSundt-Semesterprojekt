@@ -24,6 +24,6 @@ public class IndexModel : PageModel
         //    IndexViewModel.Add(new BmiIndexViewModel { Bmi = dto.Bmi, Weight = dto.Weight, Height = dto.Height, Id = dto.Id });
         //}
 
-        businessModel.ToList().ForEach(dto => IndexViewModel.Add(new BmiIndexViewModel { Bmi = dto.Bmi, Weight = dto.Weight, Height = dto.Height, Id = dto.Id }));
+        businessModel.ToList().ForEach(dto => IndexViewModel.Add(new BmiIndexViewModel { Date = dto.Date, Bmi = dto.Bmi, Weight = dto.Weight, Height = dto.Height, Id = dto.Id }));
     }
 }

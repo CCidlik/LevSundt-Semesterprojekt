@@ -11,6 +11,7 @@
         <thead>
         <tr>
             <th>ID</th>
+            <th>Dato</th>
             <th>Højde</th>
             <th>Vægt</th>
             <th>BMI</th>
@@ -24,16 +25,17 @@
             {
                 <tr>
                     <td> @bmi.Id </td>
+                    <td>@bmi.Date</td>
                     <td>@bmi.Height</td>
                     <td>@bmi.Weight</td>
                     <td>@bmi.Bmi</td>
-                    @*<td></td> dato dd/mm/YYYY*@
                     <td>
                         <!-- <snippet_Edit> -->
-                        @*                        <a asp-page="./Edit" asp-route-id="@bmi.Id">Edit</a>*@
+                        <a asp-page="./Edit" asp-route-id="@bmi.Id">Edit</a>
                         <!-- </snippet_Edit> -->
+                        |
                         <!-- <snippet_Delete> -->
-                        @*                        <button type="submit" asp-page-handler="delete" asp-route-id="@bmi.Id">delete</button>*@
+                        <a type="submit" asp-page-handler="delete" asp-route-id="@bmi.Id">delete</a>
                         <!-- </snippet_Delete> -->
                     </td>
                 </tr>
