@@ -1,4 +1,6 @@
 ﻿using LevSundt.Bmi.Domain.Model;
+using LevSundt.Bmi.Domain.Model.DomainServices;
+using Moq;
 
 namespace LevSundt.Bmi.Domain.Test.BmiEntityTests;
 
@@ -10,7 +12,8 @@ public class BmiEntityCalculateBmiTests
     public void Given_Height_And_Weight__The_Bmi_Is_Calculated_Correct(double height, double weight, double expected)
     {
         //Arrange
-        var sut = new BmiEntityTest(height, weight);
+        var mock = new Mock<IBmiDomainService>();
+        var sut = new BmiEntityTest(mock.Object, height, weight);
 
         //Act
         sut.CalculateBmi();
@@ -21,7 +24,7 @@ public class BmiEntityCalculateBmiTests
 
     public class BmiEntityTest : BmiEntity
     {
-        public BmiEntityTest(double height, double weight) : base(height, weight, 1)
+        public BmiEntityTest(IBmiDomainService domainService, double height, double weight) : base(domainService, height, weight, 1)
         {
         }
 

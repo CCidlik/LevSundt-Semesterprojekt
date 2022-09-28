@@ -13,9 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LevSundt.Bmi.Domain", "LevS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LevSundt.Bmi.Domain.Test", "LevSundt.Bmi.Domain.Test\LevSundt.Bmi.Domain.Test.csproj", "{95BFC094-2FF8-4EB6-BD24-0BCDCF9C5B32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevSundt.Bmi.Application", "LevSundt.Bmi.Application\LevSundt.Bmi.Application.csproj", "{8C53E709-E75B-4DF0-B5E7-2C4B215292EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LevSundt.Bmi.Application", "LevSundt.Bmi.Application\LevSundt.Bmi.Application.csproj", "{8C53E709-E75B-4DF0-B5E7-2C4B215292EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevSundt.Bmi.Infrastructor", "LevSundt.Bmi.Infrastructor\LevSundt.Bmi.Infrastructor.csproj", "{297725B6-85D5-4163-9F31-9351EE918F0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LevSundt.Bmi.Infrastructor", "LevSundt.Bmi.Infrastructor\LevSundt.Bmi.Infrastructor.csproj", "{297725B6-85D5-4163-9F31-9351EE918F0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

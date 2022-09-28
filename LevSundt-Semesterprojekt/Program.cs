@@ -3,6 +3,8 @@ using LevSundt.Bmi.Application.Commands.Implementation;
 using LevSundt.Bmi.Application.Queries;
 using LevSundt.Bmi.Application.Queries.Implementation;
 using LevSundt.Bmi.Application.Repositories;
+using LevSundt.Bmi.Domain.Model.DomainServices;
+using LevSundt.Bmi.Infrastructor.DomainServices;
 using LevSundt.Bmi.Infrastructor.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,8 +14,11 @@ builder.Services.AddRazorPages();
 
 //Clean Architecture
 builder.Services.AddScoped<ICreateBmiCommand, CreateBmiCommand>();
+builder.Services.AddScoped<IEditBmiCommand, EditBmiCommand>();
 builder.Services.AddScoped<IBmiRepository, BmiRepository>();
 builder.Services.AddScoped<IBmiGetAllQuery, BmiGetAllQuery>();
+builder.Services.AddScoped<IBmiGetQuery, BmiGetQuery>();
+builder.Services.AddScoped<IBmiDomainService, BmiDomainService>();
 
 var app = builder.Build();
 

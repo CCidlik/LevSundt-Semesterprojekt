@@ -1,8 +1,18 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/SolBuilderDuo/UseMsbuildSolutionBuilder/@EntryValue">NewVersion</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5b5cda8e_002D411c_002D4a5f_002Dbdc2_002D09aff5fddaa2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Given_Height_Is_Valid__Then_BmiEntity_Is_Created" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::95BFC094-2FF8-4EB6-BD24-0BCDCF9C5B32::net6.0::LevSundt.Bmi.Domain.Test.BmiEntityTests.BmiEntityCreateTests.Given_Height_Is_Valid__Then_BmiEntity_Is_Created&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::95BFC094-2FF8-4EB6-BD24-0BCDCF9C5B32::net6.0::LevSundt.Bmi.Domain.Test.BmiEntityTests.BmiEntityCalculateBmiTests.Given_Height_And_Weight__The_Bmi_Is_Calculated_Correct&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::95BFC094-2FF8-4EB6-BD24-0BCDCF9C5B32::net6.0::LevSundt.Bmi.Domain.Test.BmiEntityTests.BmiEntityCreateTests.Given_Height_And_Weight__The_Bmi_Is_Calculated_Correct&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::95BFC094-2FF8-4EB6-BD24-0BCDCF9C5B32::net6.0::LevSundt.Bmi.Domain.Test.BmiEntityTests.BmiEntityEditTests.Given_Height_Is_Valid__Then_BmiEntity_Is_Updated&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::95BFC094-2FF8-4EB6-BD24-0BCDCF9C5B32::net6.0::LevSundt.Bmi.Domain.Test.BmiEntityTests.BmiEntityEditTests.Given_Height_Is_InValid__Then_ArgumentException_Is_Thrown&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::95BFC094-2FF8-4EB6-BD24-0BCDCF9C5B32::net6.0::LevSundt.Bmi.Domain.Test.BmiEntityTests.BmiEntityEditTests.Given_Weight_Is_InValid__Then_ArgumentException_Is_Thrown&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::95BFC094-2FF8-4EB6-BD24-0BCDCF9C5B32::net6.0::LevSundt.Bmi.Domain.Test.BmiEntityTests.BmiEntityCreateTests.Given_Date_Is_Valid__Then_BmiEntity_Is_Created&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::95BFC094-2FF8-4EB6-BD24-0BCDCF9C5B32::net6.0::LevSundt.Bmi.Domain.Test.BmiEntityTests.BmiEntityCreateTests.Given_Date_Is_InValid__Then_ArgumentException_Is_Thrown&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::95BFC094-2FF8-4EB6-BD24-0BCDCF9C5B32::net6.0::LevSundt.Bmi.Domain.Test.BmiEntityTests.BmiEntityCreateTests.Given_Weight_Is_InValid__Then_ArgumentException_Is_Thrown&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::95BFC094-2FF8-4EB6-BD24-0BCDCF9C5B32::net6.0::LevSundt.Bmi.Domain.Test.BmiEntityTests.BmiEntityCreateTests.Given_Weight_Is_Valid__Then_BmiEntity_Is_Created&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::95BFC094-2FF8-4EB6-BD24-0BCDCF9C5B32::net6.0::LevSundt.Bmi.Domain.Test.BmiEntityTests.BmiEntityCreateTests.Given_Height_Is_InValid__Then_ArgumentException_Is_Thrown&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::95BFC094-2FF8-4EB6-BD24-0BCDCF9C5B32::net6.0::LevSundt.Bmi.Domain.Test.BmiEntityTests.BmiEntityEditTests.Given_Weight_Is_Valid__Then_BmiEntity_Is_Updated&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

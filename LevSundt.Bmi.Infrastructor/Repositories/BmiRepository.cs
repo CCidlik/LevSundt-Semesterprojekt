@@ -6,7 +6,7 @@ namespace LevSundt.Bmi.Infrastructor.Repositories;
 
 public class BmiRepository : IBmiRepository
 {
-    private static readonly Dictionary<int, BmiEntity> _database = new();
+    public static readonly Dictionary<int, BmiEntity> _database = new(); //public fordi der ikke er db på endnu, ellers private
 
     void IBmiRepository.Add(BmiEntity bmi)
     {
@@ -30,5 +30,29 @@ public class BmiRepository : IBmiRepository
         if (!_database.Keys.Any()) return 1;
 
         return _database.Keys.Max() + 1;
+    }
+
+    void IBmiRepository.Update(BmiEntity model)
+    {
+        _database[model.Id] = model;
+        
+    }
+
+    BmiEntity IBmiRepository.Load(int id)
+    {
+        return _database[id];
+    }
+
+    BmiQueryResultDto IBmiRepository.Get(int id)
+    {
+
+        var dbEntity = _database[id];
+        return new BmiQueryResultDto
+        {
+            Bmi = dbEntity.Bmi,
+            Weight = dbEntity.Weight,
+            Height = dbEntity.Height,
+            Id = dbEntity.Id
+        };
     }
 }

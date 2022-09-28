@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cRDe5eaF3NlBPRKJy6ZTGswyrXBai9GnOA6IPW2LOq7VpNyOeMf/zYdxCRCWNQ2CJz7i8g4x4+bwzOcHxzlWZw==",
+  "dgSpecHash": "yWTxgJyHokNb69kUxGOHbpTTICYHbWHQkIoi/UZSbA0oOK5wJysx9aPpJvyj1+AAz8rsM8nNPgeBIUMyiIpgSA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\LevSundt.Bmi.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Rasmus Høy Schmidt\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
+    "C:\\Users\\Rasmus Høy Schmidt\\.nuget\\packages\\moq\\4.18.2\\moq.4.18.2.nupkg.sha512",
+    "C:\\Users\\Rasmus Høy Schmidt\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
