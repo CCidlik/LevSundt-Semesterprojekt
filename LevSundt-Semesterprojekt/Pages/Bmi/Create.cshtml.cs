@@ -20,15 +20,15 @@ namespace LevSundt_Semesterprojekt.Pages.Bmi
             
         }
 
-        public void OnPost()
+        public IActionResult OnPost()
         {
-            if (!ModelState.IsValid) return;
+            if (!ModelState.IsValid) return Page();
 
             var dto = new BmiCreateRequestDto { Height = BmiModel.Height.Value, Weight = BmiModel.Weight.Value };
             _createBmiCommand.Create(dto);
 
 
-            new RedirectToPageResult("Bmi/Index");
+            return new RedirectToPageResult("/Bmi/Index");
         }
     }
 }
