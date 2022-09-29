@@ -15,3 +15,20 @@ C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Sem
 C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\obj\Debug\net6.0\refint\LevSundt.Bmi.Infrastructor.dll
 C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\obj\Debug\net6.0\LevSundt.Bmi.Infrastructor.pdb
 C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\obj\Debug\net6.0\ref\LevSundt.Bmi.Infrastructor.dll
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\bin\Debug\net6.0\LevSundt.Bmi.Infrastructor.deps.json
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\bin\Debug\net6.0\LevSundt.Bmi.Infrastructor.dll
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\bin\Debug\net6.0\LevSundt.Bmi.Infrastructor.pdb
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\bin\Debug\net6.0\LevSundt.Bmi.Application.dll
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\bin\Debug\net6.0\LevSundt.Bmi.Domain.dll
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\bin\Debug\net6.0\LevSundt.Bmi.Application.pdb
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\bin\Debug\net6.0\LevSundt.Bmi.Domain.pdb
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\obj\Debug\net6.0\LevSundt.Bmi.Infrastructor.csproj.AssemblyReference.cache
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\obj\Debug\net6.0\LevSundt.Bmi.Infrastructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\obj\Debug\net6.0\LevSundt.Bmi.Infrastructor.AssemblyInfoInputs.cache
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\obj\Debug\net6.0\LevSundt.Bmi.Infrastructor.AssemblyInfo.cs
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\obj\Debug\net6.0\LevSundt.Bmi.Infrastructor.csproj.CoreCompileInputs.cache
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\obj\Debug\net6.0\LevSundt.Bmi.Infrastructor.csproj.CopyComplete
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\obj\Debug\net6.0\LevSundt.Bmi.Infrastructor.dll
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\obj\Debug\net6.0\refint\LevSundt.Bmi.Infrastructor.dll
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\obj\Debug\net6.0\LevSundt.Bmi.Infrastructor.pdb
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\obj\Debug\net6.0\ref\LevSundt.Bmi.Infrastructor.dll
