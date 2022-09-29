@@ -36,15 +36,15 @@ public class BmiRepository : IBmiRepository
             };
     }
 
-    void IBmiRepository.Update()
+    void IBmiRepository.Update(BmiEntity model)
     {
-        //_db.Update(model);
+        _db.Update(model);
         _db.SaveChanges();
     }
 
     BmiEntity IBmiRepository.Load(int id)
     {
-        var dbEntity = _db.BmiEntities.FirstOrDefault(a => a.Id == id);
+        var dbEntity = _db.BmiEntities.AsNoTracking().FirstOrDefault(a => a.Id == id);
         if (dbEntity == null) throw new Exception("Bmi måling findes ikke i databasen");
         
         return dbEntity;

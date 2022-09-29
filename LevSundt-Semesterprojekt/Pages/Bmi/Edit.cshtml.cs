@@ -24,7 +24,7 @@ namespace LevSundt_Semesterprojekt.Pages.Bmi
             if (id == null) return NotFound();
             var dto = _query.Get(id.Value);
 
-            BmiModel = new BmiEditViewModel { Height = dto.Height, Weight = dto.Weight, Id = dto.Id };
+            BmiModel = new BmiEditViewModel { Height = dto.Height, Weight = dto.Weight, Id = dto.Id, RowVersion = dto.RowVersion };
 
             return Page();
         }
@@ -33,7 +33,7 @@ namespace LevSundt_Semesterprojekt.Pages.Bmi
         {
             if (!ModelState.IsValid) return Page();
 
-            _command.Edit(new BmiEditRequestDto { Height = BmiModel.Height, Weight = BmiModel.Weight, Id = BmiModel.Id });
+            _command.Edit(new BmiEditRequestDto { Height = BmiModel.Height, Weight = BmiModel.Weight, Id = BmiModel.Id, RowVersion = BmiModel.RowVersion });
 
             return RedirectToPage("./Index");
         }
