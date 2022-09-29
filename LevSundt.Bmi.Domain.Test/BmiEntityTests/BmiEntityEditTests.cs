@@ -18,10 +18,10 @@ public class BmiEntityEditTests
     {
         //Arrange
         var mock = new Mock<IBmiDomainService>();
-        var sut = new BmiEntity(mock.Object, 180, 80, 1);
+        var sut = new BmiEntity(mock.Object, 180, 80);
         
         //Act
-        sut.Edit(weight, height);
+        sut.Edit(weight, height, null);
 
         //Assert
         Assert.Equal(height, sut.Height);
@@ -41,12 +41,12 @@ public class BmiEntityEditTests
         //Arrange
         var mock = new Mock<IBmiDomainService>();
         mock.Setup(m => m.BmiExistsOnDate(It.IsAny<DateTime>())).Returns(false);
-        var sut = new BmiEntity(mock.Object, 180, 80, 1);
+        var sut = new BmiEntity(mock.Object, 180, 80);
         
         //Act
 
         //Assert
-        Assert.Throws<ArgumentException>(() => sut.Edit(height, 80));
+        Assert.Throws<ArgumentException>(() => sut.Edit(height, 80, null));
     }
 
     /// <summary>
@@ -60,15 +60,15 @@ public class BmiEntityEditTests
     {
         //Arrange
         var mock = new Mock<IBmiDomainService>();
-        var sut = new BmiEntity(mock.Object, 180, 80, 1);
+        var sut = new BmiEntity(mock.Object, 180, 80);
         
         //Act
-        sut.Edit(weight, height);
+        sut.Edit(weight, height, null);
 
         //Assert
         Assert.Equal(height, sut.Height);
         Assert.Equal(weight, sut.Weight);
-        Assert.Equal(bmi, Math.Round(sut.Bmi, 1));
+        Assert.Equal(bmi, Math.Round(sut.Bmi));
     }
 
     /// <summary>
@@ -82,11 +82,11 @@ public class BmiEntityEditTests
         //Arrange
         var mock = new Mock<IBmiDomainService>();
         mock.Setup(m => m.BmiExistsOnDate(It.IsAny<DateTime>())).Returns(false);
-        var sut = new BmiEntity(mock.Object, 180, 80, 1);
+        var sut = new BmiEntity(mock.Object, 180, 80);
 
         //Act
 
         //Assert
-        Assert.Throws<ArgumentException>(() => sut.Edit(weight, 80));
+        Assert.Throws<ArgumentException>(() => sut.Edit(weight, 80, null));
     }
 }

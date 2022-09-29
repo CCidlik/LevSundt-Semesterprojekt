@@ -32,3 +32,5 @@ C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSund
 C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\obj\Debug\net6.0\refint\LevSundt.Bmi.Infrastructor.dll
 C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\obj\Debug\net6.0\LevSundt.Bmi.Infrastructor.pdb
 C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\obj\Debug\net6.0\ref\LevSundt.Bmi.Infrastructor.dll
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\bin\Debug\net6.0\LevSundt.SqlServerContext.dll
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Infrastructor\bin\Debug\net6.0\LevSundt.SqlServerContext.pdb

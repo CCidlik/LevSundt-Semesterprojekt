@@ -671,6 +671,21 @@
         "runtime": {
           "bin/placeholder/LevSundt.Bmi.Domain.dll": {}
         }
+      },
+      "LevSundt.SqlServerContext/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "LevSundt.Bmi.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.9",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.9"
+        },
+        "compile": {
+          "bin/placeholder/LevSundt.SqlServerContext.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LevSundt.SqlServerContext.dll": {}
+        }
       }
     }
   },
@@ -1921,12 +1936,18 @@
       "type": "project",
       "path": "../LevSundt.Bmi.Domain/LevSundt.Bmi.Domain.csproj",
       "msbuildProject": "../LevSundt.Bmi.Domain/LevSundt.Bmi.Domain.csproj"
+    },
+    "LevSundt.SqlServerContext/1.0.0": {
+      "type": "project",
+      "path": "../LevSundt.SqlServerContext/LevSundt.SqlServerContext.csproj",
+      "msbuildProject": "../LevSundt.SqlServerContext/LevSundt.SqlServerContext.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "LevSundt.Bmi.Application >= 1.0.0",
-      "LevSundt.Bmi.Domain >= 1.0.0"
+      "LevSundt.Bmi.Domain >= 1.0.0",
+      "LevSundt.SqlServerContext >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1969,6 +1990,9 @@
             },
             "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj": {
               "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj"
+            },
+            "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj": {
+              "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj"
             }
           }
         }

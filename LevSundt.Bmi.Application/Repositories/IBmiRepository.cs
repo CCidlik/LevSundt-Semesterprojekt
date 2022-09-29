@@ -7,9 +7,8 @@ public interface IBmiRepository
 {
     //Repository's ansvar er at danne og administrere lifecycle for entity objekter
     void Add(BmiEntity bmi);
-    int GetNextKey();
     IEnumerable<BmiQueryResultDto> GetAll();
     BmiEntity Load(int id);
-    void Update(BmiEntity model);
+    void Update();
     BmiQueryResultDto Get(int id);
 }
