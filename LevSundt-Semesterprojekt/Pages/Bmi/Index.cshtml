@@ -6,30 +6,44 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
     <link rel="stylesheet" href="~/css/homemadestyle.css" asp-append-version="true" />
 
- <section class="margin-0">
 <form method="post">
-    <h1>BMI Beregner</h1>
-   
-    <p>Højde i meter</p>
-    <input type ="text" asp-for="BmiModel.Hight" />
-    <span asp-validation-for="BmiModel.Hight" class="text-danger"></span>
-
-    <p>Vægt i kilogram</p>
-    <input type ="text" asp-for="BmiModel.Wight"/>
-    <span asp-validation-for="BmiModel.Wight" class="text-danger"></span>
-    <p>@Model.BmiModel.Bmi</p>
-        <p>@Model.BmiModel.BmiCategori</p>
-        <article>
-    <button class="btn btn-primary">Beregn din BMI</button>
-      </article>
-    </form>
-    </section>
-    
-    <br />
-
-     <section class="@Model.Buttonalert.AlertArticalCss">
-        <button @Model.Buttonalert.AlertButtonhidden type="button" class="@Model.Buttonalert.AlertButtonCss" data-bs-dismiss="alert"></button>
-        <strong>@Model.Buttonalert.AlertStrongText</strong> @Model.Buttonalert.AlertPText
-     </section>
-
+    <table class="table">
+        <thead>
+        <tr>
+            <th>ID</th>
+            <th>Dato</th>
+            <th>Højde</th>
+            <th>Vægt</th>
+            <th>BMI</th>
+            <th></th>
+        </tr>
+        </thead>
+        <tbody>
+        @if (Model.IndexViewModel.Any())
+        {
+            foreach (var bmi in Model.IndexViewModel)
+            {
+                <tr>
+                    <td> @bmi.Id </td>
+                    <td>@bmi.Date</td>
+                    <td>@bmi.Height</td>
+                    <td>@bmi.Weight</td>
+                    <td>@bmi.Bmi</td>
+                    <td>
+                        <!-- <snippet_Edit> -->
+                        <a asp-page="./Edit" asp-route-id="@bmi.Id">Edit</a>
+                        <!-- </snippet_Edit> -->
+                        |
+                        <!-- <snippet_Delete> -->
+                        <a type="submit" asp-page-handler="delete" asp-route-id="@bmi.Id">delete</a>
+                        <!-- </snippet_Delete> -->
+                    </td>
+                </tr>
+            }
+        }
+        </tbody>
+    </table>
+    <a asp-page="Create">Create New</a>
+    @*Punkt grafer (en for vægt og en for bmi) der opdateres efter en ny bmi entry er oprettet (r?)*@
+</form>
        
