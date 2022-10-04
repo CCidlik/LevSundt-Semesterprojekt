@@ -32,6 +32,7 @@ builder.Services.AddScoped<IBmiGetQuery, BmiGetQuery>();
 builder.Services.AddScoped<IBmiDomainService, BmiDomainService>();
 
 // Database
+// Åbn Package Manager Console og kør de her linjer hver for sig
 // Add-Migration InitialMigration -Context LevSundtContext -Project LevSundt.SqlServerContext.Migrations
 // Update-Database -Context LevSundtContext
 builder.Services.AddDbContext<LevSundtContext>(
