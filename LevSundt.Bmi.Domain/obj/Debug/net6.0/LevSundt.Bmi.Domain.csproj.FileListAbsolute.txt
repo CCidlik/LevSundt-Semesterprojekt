@@ -24,3 +24,5 @@ C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSund
 C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\obj\Debug\net6.0\ref\LevSundt.Bmi.Domain.dll
 C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\bin\Debug\net6.0\LevSundt.Bmi.Domain.runtimeconfig.json
 C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\obj\Debug\net6.0\LevSundt.Bmi.Domain.genruntimeconfig.cache
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\bin\Debug\net6.0\LevSundt.Bmi.Domain.runtimeconfig.json
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\obj\Debug\net6.0\LevSundt.Bmi.Domain.genruntimeconfig.cache

@@ -15,3 +15,20 @@ C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSund
 C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.SqlServerContext\obj\Debug\net6.0\LevSundt.SqlServerContext.pdb
 C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.SqlServerContext\obj\Debug\net6.0\LevSundt.SqlServerContext.genruntimeconfig.cache
 C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.SqlServerContext\obj\Debug\net6.0\ref\LevSundt.SqlServerContext.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext\bin\Debug\net6.0\LevSundt.SqlServerContext.deps.json
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext\bin\Debug\net6.0\LevSundt.SqlServerContext.runtimeconfig.json
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext\bin\Debug\net6.0\LevSundt.SqlServerContext.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext\bin\Debug\net6.0\LevSundt.SqlServerContext.pdb
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext\bin\Debug\net6.0\LevSundt.Bmi.Domain.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext\bin\Debug\net6.0\LevSundt.Bmi.Domain.pdb
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext\obj\Debug\net6.0\LevSundt.SqlServerContext.csproj.AssemblyReference.cache
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext\obj\Debug\net6.0\LevSundt.SqlServerContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext\obj\Debug\net6.0\LevSundt.SqlServerContext.AssemblyInfoInputs.cache
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext\obj\Debug\net6.0\LevSundt.SqlServerContext.AssemblyInfo.cs
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext\obj\Debug\net6.0\LevSundt.SqlServerContext.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext\obj\Debug\net6.0\LevSundt.SqlServerContext.csproj.CopyComplete
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext\obj\Debug\net6.0\LevSundt.SqlServerContext.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext\obj\Debug\net6.0\refint\LevSundt.SqlServerContext.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext\obj\Debug\net6.0\LevSundt.SqlServerContext.pdb
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext\obj\Debug\net6.0\LevSundt.SqlServerContext.genruntimeconfig.cache
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext\obj\Debug\net6.0\ref\LevSundt.SqlServerContext.dll

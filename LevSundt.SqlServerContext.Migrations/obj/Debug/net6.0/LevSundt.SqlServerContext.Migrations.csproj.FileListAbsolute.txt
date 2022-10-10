@@ -17,3 +17,22 @@ C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSund
 C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.pdb
 C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.genruntimeconfig.cache
 C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\ref\LevSundt.SqlServerContext.Migrations.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\bin\Debug\net6.0\LevSundt.SqlServerContext.Migrations.deps.json
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\bin\Debug\net6.0\LevSundt.SqlServerContext.Migrations.runtimeconfig.json
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\bin\Debug\net6.0\LevSundt.SqlServerContext.Migrations.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\bin\Debug\net6.0\LevSundt.SqlServerContext.Migrations.pdb
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\bin\Debug\net6.0\LevSundt.Bmi.Domain.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\bin\Debug\net6.0\LevSundt.SqlServerContext.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\bin\Debug\net6.0\LevSundt.SqlServerContext.pdb
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\bin\Debug\net6.0\LevSundt.Bmi.Domain.pdb
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.csproj.AssemblyReference.cache
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.AssemblyInfoInputs.cache
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.AssemblyInfo.cs
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.csproj.CopyComplete
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\refint\LevSundt.SqlServerContext.Migrations.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.pdb
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.genruntimeconfig.cache
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\ref\LevSundt.SqlServerContext.Migrations.dll

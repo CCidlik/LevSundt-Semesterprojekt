@@ -631,3 +631,16 @@ C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSund
 C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\LevSundt-Semesterprojekt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\LevSundt.SqlServerContext.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\LevSundt.SqlServerContext.Migrations.dll
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\LevSundt.SqlServerContext.Migrations.pdb
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\LevSundt.SqlServerContext.pdb
+C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\LevSundt-Semesterprojekt.MvcApplicationPartsAssemblyInfo.cs
