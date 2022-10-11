@@ -644,3 +644,7 @@ C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Sem
 C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\LevSundt.SqlServerContext.Migrations.pdb
 C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\LevSundt.SqlServerContext.pdb
 C:\Users\Rasmus Høy Schmidt\source\repos\3. Semester\Programmering\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\obj\Debug\net6.0\LevSundt-Semesterprojekt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rassh\source\repos\3. Semester\Eksamen\LevSundt-Semesterprojekt\LevSundt-Semesterprojekt\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll

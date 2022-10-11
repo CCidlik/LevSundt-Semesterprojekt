@@ -1,51 +1,54 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt.csproj": {}
+    "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt.csproj": {
+    "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt.csproj",
+        "projectUniqueName": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt.csproj",
         "projectName": "LevSundt-Semesterprojekt",
-        "projectPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt.csproj",
-        "packagesPath": "C:\\Users\\Rasmus Høy Schmidt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\obj\\",
+        "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt.csproj",
+        "packagesPath": "C:\\Users\\Rassh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt-Semesterprojekt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rasmus Høy Schmidt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rassh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\LevSundt.Bmi.Application.csproj": {
-                "projectPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\LevSundt.Bmi.Application.csproj"
+              "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\LevSundt.Bmi.Application.csproj": {
+                "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\LevSundt.Bmi.Application.csproj"
               },
-              "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj": {
-                "projectPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj"
+              "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj": {
+                "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj"
               },
-              "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Infrastructor\\LevSundt.Bmi.Infrastructor.csproj": {
-                "projectPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Infrastructor\\LevSundt.Bmi.Infrastructor.csproj"
+              "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Infrastructor\\LevSundt.Bmi.Infrastructor.csproj": {
+                "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Infrastructor\\LevSundt.Bmi.Infrastructor.csproj"
               },
-              "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext.Migrations\\LevSundt.SqlServerContext.Migrations.csproj": {
-                "projectPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext.Migrations\\LevSundt.SqlServerContext.Migrations.csproj"
+              "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext.Migrations\\LevSundt.SqlServerContext.Migrations.csproj": {
+                "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext.Migrations\\LevSundt.SqlServerContext.Migrations.csproj"
               },
-              "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj": {
-                "projectPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj"
+              "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj": {
+                "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj"
               }
             }
           }
@@ -88,7 +91,11 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[6.0.9, )"
+              "version": "[6.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
             }
           },
           "imports": [
@@ -97,7 +104,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -109,40 +117,43 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\LevSundt.Bmi.Application.csproj": {
+    "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\LevSundt.Bmi.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\LevSundt.Bmi.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\LevSundt.Bmi.Application.csproj",
         "projectName": "LevSundt.Bmi.Application",
-        "projectPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\LevSundt.Bmi.Application.csproj",
-        "packagesPath": "C:\\Users\\Rasmus Høy Schmidt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\obj\\",
+        "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\LevSundt.Bmi.Application.csproj",
+        "packagesPath": "C:\\Users\\Rassh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rasmus Høy Schmidt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rassh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj": {
-                "projectPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj"
+              "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj": {
+                "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj"
               }
             }
           }
@@ -162,7 +173,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -171,32 +183,35 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj": {
+    "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj",
         "projectName": "LevSundt.Bmi.Domain",
-        "projectPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj",
-        "packagesPath": "C:\\Users\\Rasmus Høy Schmidt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj",
+        "packagesPath": "C:\\Users\\Rassh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rasmus Høy Schmidt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rassh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -246,7 +261,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -255,46 +271,49 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Infrastructor\\LevSundt.Bmi.Infrastructor.csproj": {
+    "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Infrastructor\\LevSundt.Bmi.Infrastructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Infrastructor\\LevSundt.Bmi.Infrastructor.csproj",
+        "projectUniqueName": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Infrastructor\\LevSundt.Bmi.Infrastructor.csproj",
         "projectName": "LevSundt.Bmi.Infrastructor",
-        "projectPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Infrastructor\\LevSundt.Bmi.Infrastructor.csproj",
-        "packagesPath": "C:\\Users\\Rasmus Høy Schmidt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Infrastructor\\obj\\",
+        "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Infrastructor\\LevSundt.Bmi.Infrastructor.csproj",
+        "packagesPath": "C:\\Users\\Rassh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Infrastructor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rasmus Høy Schmidt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rassh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\LevSundt.Bmi.Application.csproj": {
-                "projectPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\LevSundt.Bmi.Application.csproj"
+              "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\LevSundt.Bmi.Application.csproj": {
+                "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\LevSundt.Bmi.Application.csproj"
               },
-              "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj": {
-                "projectPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj"
+              "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj": {
+                "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj"
               },
-              "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj": {
-                "projectPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj"
+              "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj": {
+                "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj"
               }
             }
           }
@@ -314,7 +333,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -323,40 +343,43 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext.Migrations\\LevSundt.SqlServerContext.Migrations.csproj": {
+    "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext.Migrations\\LevSundt.SqlServerContext.Migrations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext.Migrations\\LevSundt.SqlServerContext.Migrations.csproj",
+        "projectUniqueName": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext.Migrations\\LevSundt.SqlServerContext.Migrations.csproj",
         "projectName": "LevSundt.SqlServerContext.Migrations",
-        "projectPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext.Migrations\\LevSundt.SqlServerContext.Migrations.csproj",
-        "packagesPath": "C:\\Users\\Rasmus Høy Schmidt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext.Migrations\\obj\\",
+        "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext.Migrations\\LevSundt.SqlServerContext.Migrations.csproj",
+        "packagesPath": "C:\\Users\\Rassh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext.Migrations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rasmus Høy Schmidt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rassh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj": {
-                "projectPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj"
+              "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj": {
+                "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj"
               }
             }
           }
@@ -392,7 +415,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -401,40 +425,43 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj": {
+    "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj",
+        "projectUniqueName": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj",
         "projectName": "LevSundt.SqlServerContext",
-        "projectPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj",
-        "packagesPath": "C:\\Users\\Rasmus Høy Schmidt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\obj\\",
+        "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj",
+        "packagesPath": "C:\\Users\\Rassh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rasmus Høy Schmidt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rassh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj": {
-                "projectPath": "C:\\Users\\Rasmus Høy Schmidt\\source\\repos\\3. Semester\\Programmering\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj"
+              "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj": {
+                "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj"
               }
             }
           }
@@ -470,7 +497,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -479,7 +507,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

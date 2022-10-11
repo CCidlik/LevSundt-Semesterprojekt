@@ -10,6 +10,7 @@ using LevSundt.SqlServerContext;
 using LevSundt_Semesterprojekt.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using LevSundt_Semesterprojekt.Areas.Identity.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -32,7 +33,7 @@ builder.Services.AddScoped<IBmiGetQuery, BmiGetQuery>();
 builder.Services.AddScoped<IBmiDomainService, BmiDomainService>();
 
 // Database
-// Åbn Package Manager Console og kør de her linjer hver for sig
+// ï¿½bn Package Manager Console og kï¿½r de her linjer hver for sig
 // Add-Migration InitialMigration -Context LevSundtContext -Project LevSundt.SqlServerContext.Migrations
 // Update-Database -Context LevSundtContext
 builder.Services.AddDbContext<LevSundtContext>(
@@ -54,6 +55,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+app.UseAuthentication();;
 
 app.UseAuthorization();
 
