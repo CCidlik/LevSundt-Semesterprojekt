@@ -15,9 +15,9 @@ public class IndexModel : PageModel
 
     [BindProperty] public List<BmiIndexViewModel> IndexViewModel { get; set; } = new();
 
-    public void OnGet(string userId)
+    public void OnGet()
     {
-        var businessModel = _bmiGetAllQuery.GetAll(userId);
+        var businessModel = _bmiGetAllQuery.GetAll(User.Identity?.Name ?? String.Empty);
         
         //foreach (var dto in businessModel)
         //{

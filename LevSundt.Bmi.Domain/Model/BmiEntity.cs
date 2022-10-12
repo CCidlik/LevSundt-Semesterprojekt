@@ -13,14 +13,14 @@ public class BmiEntity
 
     }
     
-    public BmiEntity(IBmiDomainService domainService, double height, double weight, string userid ="" ) // Hack for ikke at skulle rette i unit test - Skal rettes senere
+    public BmiEntity(IBmiDomainService domainService, double height, double weight, string userid ) // Hack for ikke at skulle rette i unit test - Skal rettes senere
     {
         _domainService = domainService;
         //Check pre-condition
         Height = height;
         Weight = weight;
         Date = DateTime.Now;
-
+        UserId = userid;
         if (!IsValid()) throw new ArgumentException("Pre-conditions er ikke overholdt");
         if (_domainService.BmiExistsOnDate(Date.Date)) throw new ArgumentException("Der eksisterer allerede en BMI måling for i dag");
 
@@ -32,7 +32,7 @@ public class BmiEntity
     public double Bmi { get; private set; }
     public DateTime Date { get; private set; }
     public int Id { get; }
-    public string UserId { get; set; }
+    public string UserId { get; private set; }
 
     [Timestamp]
     public byte[] RowVersion { get; private set; }

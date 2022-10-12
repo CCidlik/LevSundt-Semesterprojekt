@@ -12,6 +12,6 @@ public class BmiGetQuery : IBmiGetQuery
     }
     BmiQueryResultDto IBmiGetQuery.Get(int id , string userId)
     {
-        return _repository.Get(id);
+        return _repository.Get(id, userId);
     }
 }
