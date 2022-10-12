@@ -2,5 +2,5 @@
 
 public interface IBmiDomainService
 {
-    bool BmiExistsOnDate(DateTime date);
+    bool BmiExistsOnDate(DateTime date, string userid);
 }

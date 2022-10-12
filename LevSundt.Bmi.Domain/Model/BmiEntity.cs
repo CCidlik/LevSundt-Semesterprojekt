@@ -22,7 +22,7 @@ public class BmiEntity
         Date = DateTime.Now;
         UserId = userid;
         if (!IsValid()) throw new ArgumentException("Pre-conditions er ikke overholdt");
-        if (_domainService.BmiExistsOnDate(Date.Date)) throw new ArgumentException("Der eksisterer allerede en BMI måling for i dag");
+        if (_domainService.BmiExistsOnDate(Date.Date, userid)) throw new ArgumentException("Der eksisterer allerede en BMI måling for i dag");
 
         CalculateBmi();
     }
