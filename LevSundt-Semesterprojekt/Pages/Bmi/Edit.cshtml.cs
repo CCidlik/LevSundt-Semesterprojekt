@@ -19,10 +19,10 @@ namespace LevSundt_Semesterprojekt.Pages.Bmi
         [BindProperty]
         public BmiEditViewModel BmiModel { get; set; }
         
-        public IActionResult OnGet(int? id)
+        public IActionResult OnGet(int? id , string? userID)
         {
             if (id == null) return NotFound();
-            var dto = _query.Get(id.Value);
+            var dto = _query.Get(id.Value, userID);
 
             BmiModel = new BmiEditViewModel { Height = dto.Height, Weight = dto.Weight, Id = dto.Id, RowVersion = dto.RowVersion };
 

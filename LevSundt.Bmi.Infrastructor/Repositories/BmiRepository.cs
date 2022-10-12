@@ -32,7 +32,8 @@ public class BmiRepository : IBmiRepository
                 Height = entity.Height,
                 Date = entity.Date,
                 Id = entity.Id,
-                RowVersion = entity.RowVersion
+                RowVersion = entity.RowVersion,
+                UserId = entity.UserId,
             };
     }
 
@@ -42,9 +43,9 @@ public class BmiRepository : IBmiRepository
         _db.SaveChanges();
     }
 
-    BmiEntity IBmiRepository.Load(int id)
+    BmiEntity IBmiRepository.Load(int id, string userId)
     {
-        var dbEntity = _db.BmiEntities.AsNoTracking().FirstOrDefault(a => a.Id == id);
+        var dbEntity = _db.BmiEntities.AsNoTracking().FirstOrDefault(a => a.Id == id && a.UserId == userId);
         if (dbEntity == null) throw new Exception("Bmi måling findes ikke i databasen");
         
         return dbEntity;

@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain.Test\\LevSundt.Bmi.Domain.Test.csproj": {}
+    "C:\\Users\\CIDLIK\\OneDrive\\Skole\\UCL\\3 Semester\\Programmering Kaj\\Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain.Test\\LevSundt.Bmi.Domain.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain.Test\\LevSundt.Bmi.Domain.Test.csproj": {
+    "C:\\Users\\CIDLIK\\OneDrive\\Skole\\UCL\\3 Semester\\Programmering Kaj\\Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain.Test\\LevSundt.Bmi.Domain.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain.Test\\LevSundt.Bmi.Domain.Test.csproj",
+        "projectUniqueName": "C:\\Users\\CIDLIK\\OneDrive\\Skole\\UCL\\3 Semester\\Programmering Kaj\\Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain.Test\\LevSundt.Bmi.Domain.Test.csproj",
         "projectName": "LevSundt.Bmi.Domain.Test",
-        "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain.Test\\LevSundt.Bmi.Domain.Test.csproj",
-        "packagesPath": "C:\\Users\\Rassh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain.Test\\obj\\",
+        "projectPath": "C:\\Users\\CIDLIK\\OneDrive\\Skole\\UCL\\3 Semester\\Programmering Kaj\\Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain.Test\\LevSundt.Bmi.Domain.Test.csproj",
+        "packagesPath": "C:\\Users\\CIDLIK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CIDLIK\\OneDrive\\Skole\\UCL\\3 Semester\\Programmering Kaj\\Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rassh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CIDLIK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -34,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj": {
-                "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj"
+              "C:\\Users\\CIDLIK\\OneDrive\\Skole\\UCL\\3 Semester\\Programmering Kaj\\Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj": {
+                "projectPath": "C:\\Users\\CIDLIK\\OneDrive\\Skole\\UCL\\3 Semester\\Programmering Kaj\\Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj"
               }
             }
           }
@@ -52,7 +50,7 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.1.0, )"
+              "version": "[17.3.2, )"
             },
             "Moq": {
               "target": "Package",
@@ -66,13 +64,13 @@
             },
             "xunit": {
               "target": "Package",
-              "version": "[2.4.1, )"
+              "version": "[2.4.2, )"
             },
             "xunit.runner.visualstudio": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.4.3, )"
+              "version": "[2.4.5, )"
             }
           },
           "imports": [
@@ -81,7 +79,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -90,28 +89,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj": {
+    "C:\\Users\\CIDLIK\\OneDrive\\Skole\\UCL\\3 Semester\\Programmering Kaj\\Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\CIDLIK\\OneDrive\\Skole\\UCL\\3 Semester\\Programmering Kaj\\Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj",
         "projectName": "LevSundt.Bmi.Domain",
-        "projectPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj",
-        "packagesPath": "C:\\Users\\Rassh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rassh\\source\\repos\\3. Semester\\Eksamen\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\obj\\",
+        "projectPath": "C:\\Users\\CIDLIK\\OneDrive\\Skole\\UCL\\3 Semester\\Programmering Kaj\\Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj",
+        "packagesPath": "C:\\Users\\CIDLIK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CIDLIK\\OneDrive\\Skole\\UCL\\3 Semester\\Programmering Kaj\\Semesterprojekt\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rassh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CIDLIK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -167,7 +164,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -176,7 +174,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

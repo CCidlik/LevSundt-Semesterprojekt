@@ -1,0 +1,502 @@
+﻿++Solution 'LevSundt-Semesterprojekt' ‎(7 of 7 projects)
+i:{00000000-0000-0000-0000-000000000000}:LevSundt-Semesterprojekt.sln
+++LevSundt.SqlServerContext
+i:{00000000-0000-0000-0000-000000000000}:LevSundt.SqlServerContext
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.sqlservercontext\bin\debug\net6.0\levsundt.sqlservercontext.dll
+i:{297725b6-85d5-4163-9f31-9351ee918f0c}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.sqlservercontext\bin\debug\net6.0\levsundt.sqlservercontext.dll
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.sqlservercontext\bin\debug\net6.0\levsundt.sqlservercontext.dll
+++Dependencies
+i:{fa6940e4-1d47-4574-a394-302bed4d8dc0}:>2236
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:>2234
+i:{9bad79f3-2d1e-4747-a936-c9cbfbccec35}:>2237
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:>2235
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:>2238
+i:{297725b6-85d5-4163-9f31-9351ee918f0c}:>2233
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:>3601
+++Analyzers
+i:{fa6940e4-1d47-4574-a394-302bed4d8dc0}:analyzers
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:analyzers
+i:{9bad79f3-2d1e-4747-a936-c9cbfbccec35}:analyzers
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:analyzers
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:analyzers
+i:{297725b6-85d5-4163-9f31-9351ee918f0c}:analyzers
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:analyzers
+++Frameworks
+i:{fa6940e4-1d47-4574-a394-302bed4d8dc0}:frameworks
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:frameworks
+i:{9bad79f3-2d1e-4747-a936-c9cbfbccec35}:frameworks
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:frameworks
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:frameworks
+i:{297725b6-85d5-4163-9f31-9351ee918f0c}:frameworks
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:frameworks
+++Packages
+i:{fa6940e4-1d47-4574-a394-302bed4d8dc0}:packages
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:packages
+i:{9bad79f3-2d1e-4747-a936-c9cbfbccec35}:packages
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:packages
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:packages
+++Projects
+i:{fa6940e4-1d47-4574-a394-302bed4d8dc0}:projects
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:projects
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:projects
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:projects
+i:{297725b6-85d5-4163-9f31-9351ee918f0c}:projects
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:projects
+++BmiConfiguration
+i:{fa6940e4-1d47-4574-a394-302bed4d8dc0}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.sqlservercontext\bmiconfiguration\
+++BmiTypeConfiguration.cs
+i:{fa6940e4-1d47-4574-a394-302bed4d8dc0}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.sqlservercontext\bmiconfiguration\bmitypeconfiguration.cs
+++LevSundtContext.cs
+i:{fa6940e4-1d47-4574-a394-302bed4d8dc0}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.sqlservercontext\levsundtcontext.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{fa6940e4-1d47-4574-a394-302bed4d8dc0}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{9bad79f3-2d1e-4747-a936-c9cbfbccec35}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{297725b6-85d5-4163-9f31-9351ee918f0c}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{fa6940e4-1d47-4574-a394-302bed4d8dc0}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{9bad79f3-2d1e-4747-a936-c9cbfbccec35}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{297725b6-85d5-4163-9f31-9351ee918f0c}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{fa6940e4-1d47-4574-a394-302bed4d8dc0}:c:\users\cidlik\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.9\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:c:\users\cidlik\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.9\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{9bad79f3-2d1e-4747-a936-c9cbfbccec35}:c:\users\cidlik\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.9\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.9\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:c:\users\cidlik\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.9\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{297725b6-85d5-4163-9f31-9351ee918f0c}:c:\users\cidlik\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.9\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.9\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{fa6940e4-1d47-4574-a394-302bed4d8dc0}:c:\users\cidlik\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:c:\users\cidlik\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{9bad79f3-2d1e-4747-a936-c9cbfbccec35}:c:\users\cidlik\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:c:\users\cidlik\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{297725b6-85d5-4163-9f31-9351ee918f0c}:c:\users\cidlik\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.8\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{fa6940e4-1d47-4574-a394-302bed4d8dc0}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{9bad79f3-2d1e-4747-a936-c9cbfbccec35}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{297725b6-85d5-4163-9f31-9351ee918f0c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{fa6940e4-1d47-4574-a394-302bed4d8dc0}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.sqlservercontext\microsoft.netcore.app
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.sqlservercontext.migrations\microsoft.netcore.app
+i:{9bad79f3-2d1e-4747-a936-c9cbfbccec35}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.domain\microsoft.netcore.app
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.application\microsoft.netcore.app
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.domain.test\microsoft.netcore.app
+i:{297725b6-85d5-4163-9f31-9351ee918f0c}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.infrastructor\microsoft.netcore.app
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (6.0.9)
+i:{fa6940e4-1d47-4574-a394-302bed4d8dc0}:>3682
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:>3705
+i:{9bad79f3-2d1e-4747-a936-c9cbfbccec35}:>3695
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:>3681
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.9)
+i:{fa6940e4-1d47-4574-a394-302bed4d8dc0}:>3685
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:>3708
+i:{9bad79f3-2d1e-4747-a936-c9cbfbccec35}:>3696
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:>3686
+++Microsoft.EntityFrameworkCore.Tools (6.0.9)
+i:{fa6940e4-1d47-4574-a394-302bed4d8dc0}:>3688
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:>3710
+i:{9bad79f3-2d1e-4747-a936-c9cbfbccec35}:>3716
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:>3694
+++LevSundt.Bmi.Domain
+i:{fa6940e4-1d47-4574-a394-302bed4d8dc0}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.domain\bin\debug\net6.0\levsundt.bmi.domain.dll
+i:{5b8ea972-4f52-4ccc-8834-047943166274}:LevSundt.Bmi.Domain
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.domain\bin\debug\net6.0\levsundt.bmi.domain.dll
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.domain\bin\debug\net6.0\levsundt.bmi.domain.dll
+i:{297725b6-85d5-4163-9f31-9351ee918f0c}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.domain\bin\debug\net6.0\levsundt.bmi.domain.dll
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.domain\bin\debug\net6.0\levsundt.bmi.domain.dll
+++LevSundt.SqlServerContext.Migrations
+i:{00000000-0000-0000-0000-000000000000}:LevSundt.SqlServerContext.Migrations
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.sqlservercontext.migrations\bin\debug\net6.0\levsundt.sqlservercontext.migrations.dll
+++Migrations
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.sqlservercontext.migrations\migrations\
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\migrations\
+++20220929110506_InitialMigration.cs
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.sqlservercontext.migrations\migrations\20220929110506_initialmigration.cs
+++20220929121519_RowVersionMigration.cs
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.sqlservercontext.migrations\migrations\20220929121519_rowversionmigration.cs
+++LevSundtContextModelSnapshot.cs
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.sqlservercontext.migrations\migrations\levsundtcontextmodelsnapshot.cs
+++20220929110506_InitialMigration.Designer.cs
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.sqlservercontext.migrations\migrations\20220929110506_initialmigration.designer.cs
+++20220929121519_RowVersionMigration.Designer.cs
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.sqlservercontext.migrations\migrations\20220929121519_rowversionmigration.designer.cs
+++Features
+i:{00000000-0000-0000-0000-000000000000}:Features
+++BMI
+i:{35989655-41f5-49cb-af13-a14f573ea1f7}:BMI
+++Model
+i:{9bad79f3-2d1e-4747-a936-c9cbfbccec35}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.domain\model\
+++DomainServices
+i:{9bad79f3-2d1e-4747-a936-c9cbfbccec35}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.domain\model\domainservices\
+i:{297725b6-85d5-4163-9f31-9351ee918f0c}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.infrastructor\domainservices\
+++BmiEntity.cs
+i:{9bad79f3-2d1e-4747-a936-c9cbfbccec35}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.domain\model\bmientity.cs
+++IBmiDomainService.cs
+i:{9bad79f3-2d1e-4747-a936-c9cbfbccec35}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.domain\model\domainservices\ibmidomainservice.cs
+++Microsoft.EntityFrameworkCore.Design (6.0.9)
+i:{9bad79f3-2d1e-4747-a936-c9cbfbccec35}:>3698
+++Moq (4.18.2)
+i:{9bad79f3-2d1e-4747-a936-c9cbfbccec35}:>3717
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:>3690
+++LevSundt.Bmi.Application
+i:{5b8ea972-4f52-4ccc-8834-047943166274}:LevSundt.Bmi.Application
+i:{297725b6-85d5-4163-9f31-9351ee918f0c}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.application\bin\debug\net6.0\levsundt.bmi.application.dll
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.application\bin\debug\net6.0\levsundt.bmi.application.dll
+++Commands
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.application\commands\
+++Implementation
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.application\commands\implementation\
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.application\queries\implementation\
+++CreateBmiCommand.cs
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.application\commands\implementation\createbmicommand.cs
+++EditBmiCommand.cs
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.application\commands\implementation\editbmicommand.cs
+++BmiCreateRequestDto.cs
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.application\commands\bmicreaterequestdto.cs
+++BmiEditRequestDto.cs
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.application\commands\bmieditrequestdto.cs
+++ICreateBmiCommand.cs
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.application\commands\icreatebmicommand.cs
+++IEditBmiCommand.cs
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.application\commands\ieditbmicommand.cs
+++Queries
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.application\queries\
+++BmiGetAllQuery.cs
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.application\queries\implementation\bmigetallquery.cs
+++BmiGetQuery.cs
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.application\queries\implementation\bmigetquery.cs
+++BmiQueryResultDto.cs
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.application\queries\bmiqueryresultdto.cs
+++IBmiGetAllQuery.cs
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.application\queries\ibmigetallquery.cs
+++IBmiGetQuery.cs
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.application\queries\ibmigetquery.cs
+++Repositories
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.application\repositories\
+i:{297725b6-85d5-4163-9f31-9351ee918f0c}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.infrastructor\repositories\
+++IBmiRepository.cs
+i:{8c53e709-e75b-4df0-b5e7-2c4b215292ee}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.application\repositories\ibmirepository.cs
+++LevSundt.Bmi.Domain.Test
+i:{5b8ea972-4f52-4ccc-8834-047943166274}:LevSundt.Bmi.Domain.Test
+++BmiEntityTests
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.domain.test\bmientitytests\
+++Usings.cs
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.domain.test\usings.cs
+++BmiEntityCalculateBmiTests.cs
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.domain.test\bmientitytests\bmientitycalculatebmitests.cs
+++BmiEntityCreateTests.cs
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.domain.test\bmientitytests\bmientitycreatetests.cs
+++BmiEntityEditTests.cs
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.domain.test\bmientitytests\bmientityedittests.cs
+++xunit.analyzers
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:c:\users\cidlik\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+++xunit.analyzers.fixes
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:c:\users\cidlik\.nuget\packages\xunit.analyzers\1.0.0\analyzers\dotnet\cs\xunit.analyzers.fixes.dll
+++coverlet.collector (3.1.2)
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:>3692
+++Microsoft.NET.Test.Sdk (17.3.2)
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:>3718
+++xunit (2.4.2)
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:>3719
+++xunit.runner.visualstudio (2.4.5)
+i:{95bfc094-2ff8-4eb6-bd24-0bcdcf9c5b32}:>3720
+++LevSundt.Bmi.Infrastructor
+i:{5b8ea972-4f52-4ccc-8834-047943166274}:LevSundt.Bmi.Infrastructor
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.infrastructor\bin\debug\net6.0\levsundt.bmi.infrastructor.dll
+++BmiDomainService.cs
+i:{297725b6-85d5-4163-9f31-9351ee918f0c}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.infrastructor\domainservices\bmidomainservice.cs
+++BmiRepository.cs
+i:{297725b6-85d5-4163-9f31-9351ee918f0c}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.bmi.infrastructor\repositories\bmirepository.cs
+++LevSundt-Semesterprojekt
+i:{00000000-0000-0000-0000-000000000000}:LevSundt-Semesterprojekt
+++Connected Services 
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:>3602
+++Properties
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\properties\
+++wwwroot
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\
+++Areas
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\areas\
+++Data
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\data\
+++Pages
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\areas\identity\pages\
+++Bmi
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\bmi\
+++BmiCreateViewModel.cs
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\bmi\bmicreateviewmodel.cs
+++BmiEditViewModel.cs
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\bmi\bmieditviewmodel.cs
+++BmiIndexViewModel.cs
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\bmi\bmiindexviewmodel.cs
+++Create.cshtml
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\bmi\create.cshtml
+++Edit.cshtml
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\bmi\edit.cshtml
+++Index.cshtml
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\bmi\index.cshtml
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\index.cshtml
+++Shared
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\shared\
+++_ViewImports.cshtml
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\_viewstart.cshtml
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\areas\identity\pages\_viewstart.cshtml
+++ConstructionSite.cshtml
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\constructionsite.cshtml
+++Error.cshtml
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\error.cshtml
+++Privacy.cshtml
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\privacy.cshtml
+++appsettings.json
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\appsettings.json
+++Program.cs
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\program.cs
+++No service dependencies discovered
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:>3603
+++PublishProfiles
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\properties\publishprofiles\
+++launchSettings.json
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\properties\launchsettings.json
+++css
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\css\
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\js\
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\
+++Media
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\media\
+++favicon.ico
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\favicon.ico
+++Identity
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\areas\identity\
+++ApplicationDbContext.cs
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\data\applicationdbcontext.cs
+++Create.cshtml.cs
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\bmi\create.cshtml.cs
+++Edit.cshtml.cs
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\bmi\edit.cshtml.cs
+++Index.cshtml.cs
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\bmi\index.cshtml.cs
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\index.cshtml.cs
+++_Layout.cshtml
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\shared\_loginpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\shared\_validationscriptspartial.cshtml
+++ConstructionSite.cshtml.cs
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\constructionsite.cshtml.cs
+++Error.cshtml.cs
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\error.cshtml.cs
+++Privacy.cshtml.cs
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\privacy.cshtml.cs
+++appsettings.Development.json
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\appsettings.development.json
+++MessagePackAnalyzer
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.8\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.8\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\microsoft.aspnetcore.app
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (6.0.9)
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:>3689
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.9)
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:>3693
+++Microsoft.AspNetCore.Identity.UI (6.0.9)
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:>3722
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.10)
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:>3741
+++FTPProfile.pubxml
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\properties\publishprofiles\ftpprofile.pubxml
+++homemadestyle.css
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\css\homemadestyle.css
+++site.css
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\css\site.css
+++site.js
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\js\site.js
+++bootstrap
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\
+++jquery
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\jquery\
+++jquery-validation
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\jquery-validation-unobtrusive\
+++Audio
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\media\audio\
+++Images
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\media\images\
+++Videos
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\media\videos\
+++_Layout.cshtml.css
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\pages\shared\_layout.cshtml.css
+++dist
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\jquery\dist\
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\jquery\license.txt
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++appel.jpg
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\media\images\appel.jpg
+++pandekage2edited.jpg
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\media\images\pandekage2edited.jpg
+++pandekager1edited.jpg
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\media\images\pandekager1edited.jpg
+++Pandekager3edited.jpg
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\media\images\pandekager3edited.jpg
+++jquery.js
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++20221011093801_UserIdMigration.cs
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.sqlservercontext.migrations\migrations\20221011093801_useridmigration.cs
+++20221011093801_UserIdMigration.Designer.cs
+i:{ceec20b5-5313-45a7-984c-4808183a2782}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt.sqlservercontext.migrations\migrations\20221011093801_useridmigration.designer.cs
+++20221011094132_InitialMigration.cs
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\migrations\20221011094132_initialmigration.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\migrations\applicationdbcontextmodelsnapshot.cs
+++20221011094132_InitialMigration.Designer.cs
+i:{92d6f102-720d-4412-b482-249b0e3a83b2}:c:\users\cidlik\onedrive\skole\ucl\3 semester\programmering kaj\semesterprojekt\levsundt-semesterprojekt\levsundt-semesterprojekt\migrations\20221011094132_initialmigration.designer.cs

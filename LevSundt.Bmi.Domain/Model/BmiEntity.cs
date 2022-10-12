@@ -13,7 +13,7 @@ public class BmiEntity
 
     }
     
-    public BmiEntity(IBmiDomainService domainService, double height, double weight)
+    public BmiEntity(IBmiDomainService domainService, double height, double weight, string userid ="" ) // Hack for ikke at skulle rette i unit test - Skal rettes senere
     {
         _domainService = domainService;
         //Check pre-condition
@@ -32,6 +32,7 @@ public class BmiEntity
     public double Bmi { get; private set; }
     public DateTime Date { get; private set; }
     public int Id { get; }
+    public string UserId { get; set; }
 
     [Timestamp]
     public byte[] RowVersion { get; private set; }

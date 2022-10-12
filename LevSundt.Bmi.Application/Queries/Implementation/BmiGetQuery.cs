@@ -10,7 +10,7 @@ public class BmiGetQuery : IBmiGetQuery
     {
         _repository = repository;
     }
-    BmiQueryResultDto IBmiGetQuery.Get(int id)
+    BmiQueryResultDto IBmiGetQuery.Get(int id , string userId)
     {
         return _repository.Get(id);
     }
