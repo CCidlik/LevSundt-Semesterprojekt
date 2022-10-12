@@ -43,3 +43,18 @@ C:\Users\CIDLIK\OneDrive\Skole\UCL\3 Semester\Programmering Kaj\Semesterprojekt\
 C:\Users\CIDLIK\OneDrive\Skole\UCL\3 Semester\Programmering Kaj\Semesterprojekt\LevSundt-Semesterprojekt\LevSundt.Bmi.Application\obj\Debug\net6.0\refint\LevSundt.Bmi.Application.dll
 C:\Users\CIDLIK\OneDrive\Skole\UCL\3 Semester\Programmering Kaj\Semesterprojekt\LevSundt-Semesterprojekt\LevSundt.Bmi.Application\obj\Debug\net6.0\LevSundt.Bmi.Application.pdb
 C:\Users\CIDLIK\OneDrive\Skole\UCL\3 Semester\Programmering Kaj\Semesterprojekt\LevSundt-Semesterprojekt\LevSundt.Bmi.Application\obj\Debug\net6.0\ref\LevSundt.Bmi.Application.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Application\bin\Debug\net6.0\LevSundt.Bmi.Application.deps.json
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Application\bin\Debug\net6.0\LevSundt.Bmi.Application.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Application\bin\Debug\net6.0\LevSundt.Bmi.Application.pdb
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Application\bin\Debug\net6.0\LevSundt.Bmi.Domain.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Application\bin\Debug\net6.0\LevSundt.Bmi.Domain.pdb
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Application\obj\Debug\net6.0\LevSundt.Bmi.Application.csproj.AssemblyReference.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Application\obj\Debug\net6.0\LevSundt.Bmi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Application\obj\Debug\net6.0\LevSundt.Bmi.Application.AssemblyInfoInputs.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Application\obj\Debug\net6.0\LevSundt.Bmi.Application.AssemblyInfo.cs
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Application\obj\Debug\net6.0\LevSundt.Bmi.Application.csproj.CoreCompileInputs.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Application\obj\Debug\net6.0\LevSundt.Bmi.Application.csproj.CopyComplete
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Application\obj\Debug\net6.0\LevSundt.Bmi.Application.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Application\obj\Debug\net6.0\refint\LevSundt.Bmi.Application.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Application\obj\Debug\net6.0\LevSundt.Bmi.Application.pdb
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Application\obj\Debug\net6.0\ref\LevSundt.Bmi.Application.dll

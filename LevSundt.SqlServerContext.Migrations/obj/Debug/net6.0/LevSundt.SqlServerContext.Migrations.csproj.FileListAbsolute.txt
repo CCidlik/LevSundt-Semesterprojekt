@@ -36,3 +36,22 @@ C:\Users\CIDLIK\OneDrive\Skole\UCL\3 Semester\Programmering Kaj\Semesterprojekt\
 C:\Users\CIDLIK\OneDrive\Skole\UCL\3 Semester\Programmering Kaj\Semesterprojekt\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.pdb
 C:\Users\CIDLIK\OneDrive\Skole\UCL\3 Semester\Programmering Kaj\Semesterprojekt\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.genruntimeconfig.cache
 C:\Users\CIDLIK\OneDrive\Skole\UCL\3 Semester\Programmering Kaj\Semesterprojekt\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\ref\LevSundt.SqlServerContext.Migrations.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\bin\Debug\net6.0\LevSundt.SqlServerContext.Migrations.deps.json
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\bin\Debug\net6.0\LevSundt.SqlServerContext.Migrations.runtimeconfig.json
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\bin\Debug\net6.0\LevSundt.SqlServerContext.Migrations.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\bin\Debug\net6.0\LevSundt.SqlServerContext.Migrations.pdb
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\bin\Debug\net6.0\LevSundt.Bmi.Domain.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\bin\Debug\net6.0\LevSundt.SqlServerContext.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\bin\Debug\net6.0\LevSundt.SqlServerContext.pdb
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\bin\Debug\net6.0\LevSundt.Bmi.Domain.pdb
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.csproj.AssemblyReference.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.AssemblyInfoInputs.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.AssemblyInfo.cs
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.csproj.CoreCompileInputs.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.csproj.CopyComplete
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\refint\LevSundt.SqlServerContext.Migrations.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.pdb
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\LevSundt.SqlServerContext.Migrations.genruntimeconfig.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.SqlServerContext.Migrations\obj\Debug\net6.0\ref\LevSundt.SqlServerContext.Migrations.dll

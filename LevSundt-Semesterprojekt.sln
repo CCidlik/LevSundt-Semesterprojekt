@@ -17,9 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LevSundt.Bmi.Application", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LevSundt.Bmi.Infrastructor", "LevSundt.Bmi.Infrastructor\LevSundt.Bmi.Infrastructor.csproj", "{297725B6-85D5-4163-9F31-9351EE918F0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevSundt.SqlServerContext", "LevSundt.SqlServerContext\LevSundt.SqlServerContext.csproj", "{FA6940E4-1D47-4574-A394-302BED4D8DC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LevSundt.SqlServerContext", "LevSundt.SqlServerContext\LevSundt.SqlServerContext.csproj", "{FA6940E4-1D47-4574-A394-302BED4D8DC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevSundt.SqlServerContext.Migrations", "LevSundt.SqlServerContext.Migrations\LevSundt.SqlServerContext.Migrations.csproj", "{CEEC20B5-5313-45A7-984C-4808183A2782}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LevSundt.SqlServerContext.Migrations", "LevSundt.SqlServerContext.Migrations\LevSundt.SqlServerContext.Migrations.csproj", "{CEEC20B5-5313-45A7-984C-4808183A2782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevSundt.WebApp.UserContext.Migrations", "LevSundt.WebApp.UserContext.Migrations\LevSundt.WebApp.UserContext.Migrations.csproj", "{F8D370A2-278E-4B84-9FF3-D480C9786F53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevSundt.WebApp.UserContext", "LevSundt.WebApp.UserContext\LevSundt.WebApp.UserContext.csproj", "{75216B83-3B43-42F5-BE7B-886F75DD9A2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +59,14 @@ Global
 		{CEEC20B5-5313-45A7-984C-4808183A2782}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEEC20B5-5313-45A7-984C-4808183A2782}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEEC20B5-5313-45A7-984C-4808183A2782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D370A2-278E-4B84-9FF3-D480C9786F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D370A2-278E-4B84-9FF3-D480C9786F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D370A2-278E-4B84-9FF3-D480C9786F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D370A2-278E-4B84-9FF3-D480C9786F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75216B83-3B43-42F5-BE7B-886F75DD9A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75216B83-3B43-42F5-BE7B-886F75DD9A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75216B83-3B43-42F5-BE7B-886F75DD9A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75216B83-3B43-42F5-BE7B-886F75DD9A2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,17 @@
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext.Migrations\bin\Debug\net6.0\LevSundt.WebApp.UserContext.Migrations.deps.json
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext.Migrations\bin\Debug\net6.0\LevSundt.WebApp.UserContext.Migrations.runtimeconfig.json
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext.Migrations\bin\Debug\net6.0\LevSundt.WebApp.UserContext.Migrations.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext.Migrations\bin\Debug\net6.0\LevSundt.WebApp.UserContext.Migrations.pdb
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext.Migrations\obj\Debug\net6.0\LevSundt.WebApp.UserContext.Migrations.csproj.AssemblyReference.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext.Migrations\obj\Debug\net6.0\LevSundt.WebApp.UserContext.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext.Migrations\obj\Debug\net6.0\LevSundt.WebApp.UserContext.Migrations.AssemblyInfoInputs.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext.Migrations\obj\Debug\net6.0\LevSundt.WebApp.UserContext.Migrations.AssemblyInfo.cs
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext.Migrations\obj\Debug\net6.0\LevSundt.WebApp.UserContext.Migrations.csproj.CoreCompileInputs.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext.Migrations\obj\Debug\net6.0\LevSundt.WebApp.UserContext.Migrations.csproj.CopyComplete
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext.Migrations\obj\Debug\net6.0\LevSundt.WebApp.UserContext.Migrations.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext.Migrations\obj\Debug\net6.0\refint\LevSundt.WebApp.UserContext.Migrations.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext.Migrations\obj\Debug\net6.0\LevSundt.WebApp.UserContext.Migrations.pdb
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext.Migrations\obj\Debug\net6.0\LevSundt.WebApp.UserContext.Migrations.genruntimeconfig.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext.Migrations\obj\Debug\net6.0\ref\LevSundt.WebApp.UserContext.Migrations.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext.Migrations\bin\Debug\net6.0\LevSundt.WebApp.UserContext.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext.Migrations\bin\Debug\net6.0\LevSundt.WebApp.UserContext.pdb

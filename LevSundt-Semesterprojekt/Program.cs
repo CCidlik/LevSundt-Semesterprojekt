@@ -7,24 +7,45 @@ using LevSundt.Bmi.Domain.Model.DomainServices;
 using LevSundt.Bmi.Infrastructor.DomainServices;
 using LevSundt.Bmi.Infrastructor.Repositories;
 using LevSundt.SqlServerContext;
-using LevSundt_Semesterprojekt.Data;
+using LevSundt.WebApp.UserContext;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+using LevSundt_Semesterprojekt.Areas.Identity.Data;
+
 
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+// Add-Migration InitialMigration -Context ApplicationDbContext -Project LevSundt.WebApp.UserContext.Migrations
+// Update-Database -Context ApplicationDbContext
+var connectionString = builder.Configuration.GetConnectionString("WebAppUserDbConnection");
+
+
+
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(connectionString));
-builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+    options.UseSqlServer(connectionString,
+
+        x => x.MigrationsAssembly("LevSundt.WebApp.UserContext.Migrations")));
+  
+
+//builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 // Database
-// Åbn Package Manager Console og kør de her linjer hver for sig
+// ï¿½bn Package Manager Console og kï¿½r de her linjer hver for sig
 // Add-Migration InitialMigration -Context ApplicationDbContext 
 // Update-Database -Context ApplicationDbContext
-builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = false)
+builder.Services.AddDefaultIdentity<IdentityUser>(options =>
+    {
+        options.Password.RequireDigit = false;
+        options.Password.RequiredLength = 5;
+        options.Password.RequireLowercase = false;
+        options.Password.RequireNonAlphanumeric = false;
+        options.Password.RequiredUniqueChars = 0;
+        options.Password.RequireUppercase = false;
+        options.SignIn.RequireConfirmedAccount = false;
+    })
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddRazorPages();
 
@@ -37,7 +58,7 @@ builder.Services.AddScoped<IBmiGetQuery, BmiGetQuery>();
 builder.Services.AddScoped<IBmiDomainService, BmiDomainService>();
 
 // Database
-// Åbn Package Manager Console og kør de her linjer hver for sig
+// ï¿½bn Package Manager Console og kï¿½r de her linjer hver for sig
 // Add-Migration InitialMigration -Context LevSundtContext -Project LevSundt.SqlServerContext.Migrations
 // Update-Database -Context LevSundtContext
 builder.Services.AddDbContext<LevSundtContext>(
@@ -59,6 +80,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+app.UseAuthentication();;
 
 app.UseAuthorization();
 app.UseAuthorization();

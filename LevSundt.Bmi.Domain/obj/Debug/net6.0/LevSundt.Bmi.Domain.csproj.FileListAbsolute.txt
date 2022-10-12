@@ -38,3 +38,17 @@ C:\Users\CIDLIK\OneDrive\Skole\UCL\3 Semester\Programmering Kaj\Semesterprojekt\
 C:\Users\CIDLIK\OneDrive\Skole\UCL\3 Semester\Programmering Kaj\Semesterprojekt\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\obj\Debug\net6.0\LevSundt.Bmi.Domain.pdb
 C:\Users\CIDLIK\OneDrive\Skole\UCL\3 Semester\Programmering Kaj\Semesterprojekt\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\obj\Debug\net6.0\LevSundt.Bmi.Domain.genruntimeconfig.cache
 C:\Users\CIDLIK\OneDrive\Skole\UCL\3 Semester\Programmering Kaj\Semesterprojekt\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\obj\Debug\net6.0\ref\LevSundt.Bmi.Domain.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\bin\Debug\net6.0\LevSundt.Bmi.Domain.deps.json
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\bin\Debug\net6.0\LevSundt.Bmi.Domain.runtimeconfig.json
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\bin\Debug\net6.0\LevSundt.Bmi.Domain.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\bin\Debug\net6.0\LevSundt.Bmi.Domain.pdb
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\obj\Debug\net6.0\LevSundt.Bmi.Domain.csproj.AssemblyReference.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\obj\Debug\net6.0\LevSundt.Bmi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\obj\Debug\net6.0\LevSundt.Bmi.Domain.AssemblyInfoInputs.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\obj\Debug\net6.0\LevSundt.Bmi.Domain.AssemblyInfo.cs
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\obj\Debug\net6.0\LevSundt.Bmi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\obj\Debug\net6.0\LevSundt.Bmi.Domain.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\obj\Debug\net6.0\refint\LevSundt.Bmi.Domain.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\obj\Debug\net6.0\LevSundt.Bmi.Domain.pdb
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\obj\Debug\net6.0\LevSundt.Bmi.Domain.genruntimeconfig.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.Bmi.Domain\obj\Debug\net6.0\ref\LevSundt.Bmi.Domain.dll

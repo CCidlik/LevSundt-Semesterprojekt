@@ -1,0 +1,14 @@
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext\obj\Debug\net6.0\LevSundt.WebApp.UserContext.csproj.AssemblyReference.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext\obj\Debug\net6.0\LevSundt.WebApp.UserContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext\obj\Debug\net6.0\LevSundt.WebApp.UserContext.AssemblyInfoInputs.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext\obj\Debug\net6.0\LevSundt.WebApp.UserContext.AssemblyInfo.cs
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext\obj\Debug\net6.0\LevSundt.WebApp.UserContext.csproj.CoreCompileInputs.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext\bin\Debug\net6.0\LevSundt.WebApp.UserContext.deps.json
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext\bin\Debug\net6.0\LevSundt.WebApp.UserContext.runtimeconfig.json
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext\bin\Debug\net6.0\LevSundt.WebApp.UserContext.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext\bin\Debug\net6.0\LevSundt.WebApp.UserContext.pdb
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext\obj\Debug\net6.0\LevSundt.WebApp.UserContext.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext\obj\Debug\net6.0\refint\LevSundt.WebApp.UserContext.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext\obj\Debug\net6.0\LevSundt.WebApp.UserContext.pdb
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext\obj\Debug\net6.0\LevSundt.WebApp.UserContext.genruntimeconfig.cache
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\LevSundt.WebApp.UserContext\obj\Debug\net6.0\ref\LevSundt.WebApp.UserContext.dll
