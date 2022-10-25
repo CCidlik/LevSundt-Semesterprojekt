@@ -11,7 +11,7 @@ using LevSundt.WebApp.UserContext;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
-using LevSundt_Semesterprojekt.Areas.Identity.Data;
+//using LevSundt_Semesterprojekt.Areas.Identity.Data;
 
 
 
@@ -47,7 +47,17 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options =>
         options.SignIn.RequireConfirmedAccount = false;
     })
     .AddEntityFrameworkStores<ApplicationDbContext>();
-builder.Services.AddRazorPages();
+
+
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("CoachPolicy", policyBuilder => policyBuilder.RequireClaim("Coach"));
+});
+builder.Services.AddRazorPages(options =>
+{
+    options.Conventions.AuthorizeFolder("/Bmi");
+    options.Conventions.AuthorizeFolder("/Coach", "CoachPolicy");
+});
 
 //Clean Architecture
 builder.Services.AddScoped<ICreateBmiCommand, CreateBmiCommand>();

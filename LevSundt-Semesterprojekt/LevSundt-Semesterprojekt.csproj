@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Areas\Identity\Data\" />
     <Folder Include="wwwroot\Media\Audio\" />
     <Folder Include="wwwroot\Media\Videos\" />
   </ItemGroup>
