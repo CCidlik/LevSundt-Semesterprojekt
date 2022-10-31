@@ -1,4 +1,5 @@
-using LevSundt.Bmi.Application.Queries;
+
+using LevSundt_Semesterprojekt.Infrastructure.Contact;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
@@ -7,19 +8,20 @@ namespace LevSundt_Semesterprojekt.Pages.Coach
     public class DetailsModel : PageModel
     
     {
-        private readonly IBmiGetAllQuery _query;
-        public DetailsModel(IBmiGetAllQuery query)
+        private readonly ILevSundtService _LevSundtService;
+       
+        public DetailsModel(ILevSundtService levSundtService)
         {
-            _query = query;
+            _LevSundtService = levSundtService;
         }
 
         [BindProperty] public List<CoachDetailsViewModel> DetailsViewModel { get; set; } = new();
         [BindProperty] public string UserName { get; set; } = String.Empty;
-        public IActionResult OnGet(string? userId)
+        public async Task<IActionResult> OnGet(string? userId)
         {
             if (string.IsNullOrWhiteSpace(userId)) return NotFound();
 
-            var buissnessModel = _query.GetAll(userId);
+            var buissnessModel = await _LevSundtService.GetAll(userId);
 
             buissnessModel.OrderBy(a => a.Date).ToList().ForEach(dto => DetailsViewModel.Add(new CoachDetailsViewModel()
                 {Bmi = dto.Bmi, Weight = dto.Weight, Height = dto.Height, Id = dto.Id, Date = dto.Date }));

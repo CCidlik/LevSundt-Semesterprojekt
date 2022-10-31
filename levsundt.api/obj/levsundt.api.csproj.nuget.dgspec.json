@@ -32,21 +32,6 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\LevSundt.Bmi.Application.csproj": {
-                "projectPath": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\LevSundt.Bmi.Application.csproj"
-              },
-              "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj": {
-                "projectPath": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj"
-              },
-              "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Infrastructor\\LevSundt.Bmi.Infrastructor.csproj": {
-                "projectPath": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Infrastructor\\LevSundt.Bmi.Infrastructor.csproj"
-              },
-              "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext.Migrations\\LevSundt.SqlServerContext.Migrations.csproj": {
-                "projectPath": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext.Migrations\\LevSundt.SqlServerContext.Migrations.csproj"
-              },
-              "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj": {
-                "projectPath": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj"
-              },
               "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.WebApp.UserContext.Migrations\\LevSundt.WebApp.UserContext.Migrations.csproj": {
                 "projectPath": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.WebApp.UserContext.Migrations\\LevSundt.WebApp.UserContext.Migrations.csproj"
               },

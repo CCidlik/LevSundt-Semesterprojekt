@@ -3782,11 +3782,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "LevSundt.Bmi.Application": "1.0.0",
-          "LevSundt.Bmi.Domain": "1.0.0",
-          "LevSundt.Bmi.Infrastructor": "1.0.0",
-          "LevSundt.SqlServerContext": "1.0.0",
-          "LevSundt.SqlServerContext.Migrations": "1.0.0",
           "LevSundt.WebApp.UserContext": "1.0.0",
           "LevSundt.WebApp.UserContext.Migrations": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.10",

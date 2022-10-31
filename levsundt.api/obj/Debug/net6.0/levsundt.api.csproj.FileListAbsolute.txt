@@ -284,3 +284,12 @@ C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\levsundt.api\obj\Debug\n
 C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\levsundt.api\obj\Debug\net6.0\levsundt.api.pdb
 C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\levsundt.api\obj\Debug\net6.0\levsundt.api.genruntimeconfig.cache
 C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\levsundt.api\obj\Debug\net6.0\ref\levsundt.api.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\levsundt.api\bin\Debug\net6.0\LevSundt-Semesterprojekt.deps.json
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\levsundt.api\bin\Debug\net6.0\LevSundt-Semesterprojekt.runtimeconfig.json
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\levsundt.api\bin\Debug\net6.0\LevSundt-Semesterprojekt.staticwebassets.runtime.json
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\levsundt.api\bin\Debug\net6.0\LevSundt-Semesterprojekt.exe
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\levsundt.api\bin\Debug\net6.0\levsundt.api.staticwebassets.runtime.json
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\levsundt.api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\levsundt.api\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\levsundt.api\bin\Debug\net6.0\LevSundt-Semesterprojekt.dll
+C:\Users\marc\Documents\GitHub\LevSundt-Semesterprojekt\levsundt.api\bin\Debug\net6.0\LevSundt-Semesterprojekt.pdb

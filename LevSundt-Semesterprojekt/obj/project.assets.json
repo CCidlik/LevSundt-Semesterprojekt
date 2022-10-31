@@ -2,22 +2,6 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "Castle.Core/5.1.0": {
-        "type": "package",
-        "dependencies": {
-          "System.Diagnostics.EventLog": "6.0.0"
-        },
-        "compile": {
-          "lib/net6.0/Castle.Core.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/Castle.Core.dll": {
-            "related": ".xml"
-          }
-        }
-      },
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
@@ -1800,22 +1784,6 @@
           }
         }
       },
-      "Moq/4.18.2": {
-        "type": "package",
-        "dependencies": {
-          "Castle.Core": "5.1.0"
-        },
-        "compile": {
-          "lib/net6.0/Moq.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/Moq.dll": {
-            "related": ".xml"
-          }
-        }
-      },
       "NETStandard.Library/1.6.1": {
         "type": "package",
         "dependencies": {
@@ -2458,32 +2426,6 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
-        }
-      },
-      "System.Diagnostics.EventLog/6.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/System.Diagnostics.EventLog.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/System.Diagnostics.EventLog.dll": {
-            "related": ".xml"
-          }
-        },
-        "build": {
-          "buildTransitive/netcoreapp3.1/_._": {}
-        },
-        "runtimeTargets": {
-          "runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll": {
-            "assetType": "runtime",
-            "rid": "win"
-          },
-          "runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll": {
-            "assetType": "runtime",
-            "rid": "win"
-          }
         }
       },
       "System.Diagnostics.Tools/4.3.0": {
@@ -3692,79 +3634,6 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "LevSundt.Bmi.Application/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "LevSundt.Bmi.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/LevSundt.Bmi.Application.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LevSundt.Bmi.Application.dll": {}
-        }
-      },
-      "LevSundt.Bmi.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "6.0.10",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.10",
-          "Moq": "4.18.2"
-        },
-        "compile": {
-          "bin/placeholder/LevSundt.Bmi.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LevSundt.Bmi.Domain.dll": {}
-        }
-      },
-      "LevSundt.Bmi.Infrastructor/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "LevSundt.Bmi.Application": "1.0.0",
-          "LevSundt.Bmi.Domain": "1.0.0",
-          "LevSundt.SqlServerContext": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/LevSundt.Bmi.Infrastructor.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LevSundt.Bmi.Infrastructor.dll": {}
-        }
-      },
-      "LevSundt.SqlServerContext/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "LevSundt.Bmi.Domain": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "6.0.10",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.10"
-        },
-        "compile": {
-          "bin/placeholder/LevSundt.SqlServerContext.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LevSundt.SqlServerContext.dll": {}
-        }
-      },
-      "LevSundt.SqlServerContext.Migrations/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "LevSundt.SqlServerContext": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "6.0.10",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.10"
-        },
-        "compile": {
-          "bin/placeholder/LevSundt.SqlServerContext.Migrations.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LevSundt.SqlServerContext.Migrations.dll": {}
-        }
-      },
       "LevSundt.WebApp.UserContext/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -3798,30 +3667,6 @@
     }
   },
   "libraries": {
-    "Castle.Core/5.1.0": {
-      "sha512": "31UJpTHOiWq95CDOHazE3Ub/hE/PydNWsJMwnEVTqFFP4WhAugwpaVGxzOxKgNeSUUeqS2W6lxV+q7u1pAOfXg==",
-      "type": "package",
-      "path": "castle.core/5.1.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "ASL - Apache Software Foundation License.txt",
-        "CHANGELOG.md",
-        "LICENSE",
-        "castle-logo.png",
-        "castle.core.5.1.0.nupkg.sha512",
-        "castle.core.nuspec",
-        "lib/net462/Castle.Core.dll",
-        "lib/net462/Castle.Core.xml",
-        "lib/net6.0/Castle.Core.dll",
-        "lib/net6.0/Castle.Core.xml",
-        "lib/netstandard2.0/Castle.Core.dll",
-        "lib/netstandard2.0/Castle.Core.xml",
-        "lib/netstandard2.1/Castle.Core.dll",
-        "lib/netstandard2.1/Castle.Core.xml",
-        "readme.txt"
-      ]
-    },
     "Humanizer.Core/2.8.26": {
       "sha512": "OiKusGL20vby4uDEswj2IgkdchC1yQ6rwbIkZDVBPIR6al2b7n3pC91elBul9q33KaBgRKhbZH3+2Ur4fnWx2A==",
       "type": "package",
@@ -6306,26 +6151,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Moq/4.18.2": {
-      "sha512": "SjxKYS5nX6prcaT8ZjbkONh3vnh0Rxru09+gQ1a07v4TM530Oe/jq3Q4dOZPfo1wq0LYmTgLOZKrqRfEx4auPw==",
-      "type": "package",
-      "path": "moq/4.18.2",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net462/Moq.dll",
-        "lib/net462/Moq.xml",
-        "lib/net6.0/Moq.dll",
-        "lib/net6.0/Moq.xml",
-        "lib/netstandard2.0/Moq.dll",
-        "lib/netstandard2.0/Moq.xml",
-        "lib/netstandard2.1/Moq.dll",
-        "lib/netstandard2.1/Moq.xml",
-        "moq.4.18.2.nupkg.sha512",
-        "moq.nuspec",
-        "moq.png"
-      ]
-    },
     "NETStandard.Library/1.6.1": {
       "sha512": "WcSp3+vP+yHNgS8EV5J7pZ9IRpeDuARBPN28by8zqff1wJQXm26PVU8L3/fYLBJVU7BtDyqNVWq2KlCVvSSR4A==",
       "type": "package",
@@ -7225,37 +7050,6 @@
         "lib/netstandard2.0/System.Diagnostics.DiagnosticSource.xml",
         "system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
         "system.diagnostics.diagnosticsource.nuspec",
-        "useSharedDesignerContext.txt"
-      ]
-    },
-    "System.Diagnostics.EventLog/6.0.0": {
-      "sha512": "lcyUiXTsETK2ALsZrX+nWuHSIQeazhqPphLfaRxzdGaG93+0kELqpgEHtwWOlQe7+jSFnKwaCAgL4kjeZCQJnw==",
-      "type": "package",
-      "path": "system.diagnostics.eventlog/6.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "LICENSE.TXT",
-        "THIRD-PARTY-NOTICES.TXT",
-        "buildTransitive/netcoreapp2.0/System.Diagnostics.EventLog.targets",
-        "buildTransitive/netcoreapp3.1/_._",
-        "lib/net461/System.Diagnostics.EventLog.dll",
-        "lib/net461/System.Diagnostics.EventLog.xml",
-        "lib/net6.0/System.Diagnostics.EventLog.dll",
-        "lib/net6.0/System.Diagnostics.EventLog.xml",
-        "lib/netcoreapp3.1/System.Diagnostics.EventLog.dll",
-        "lib/netcoreapp3.1/System.Diagnostics.EventLog.xml",
-        "lib/netstandard2.0/System.Diagnostics.EventLog.dll",
-        "lib/netstandard2.0/System.Diagnostics.EventLog.xml",
-        "runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll",
-        "runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll",
-        "runtimes/win/lib/net6.0/System.Diagnostics.EventLog.xml",
-        "runtimes/win/lib/netcoreapp3.1/System.Diagnostics.EventLog.Messages.dll",
-        "runtimes/win/lib/netcoreapp3.1/System.Diagnostics.EventLog.dll",
-        "runtimes/win/lib/netcoreapp3.1/System.Diagnostics.EventLog.xml",
-        "system.diagnostics.eventlog.6.0.0.nupkg.sha512",
-        "system.diagnostics.eventlog.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
@@ -10515,31 +10309,6 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "LevSundt.Bmi.Application/1.0.0": {
-      "type": "project",
-      "path": "../LevSundt.Bmi.Application/LevSundt.Bmi.Application.csproj",
-      "msbuildProject": "../LevSundt.Bmi.Application/LevSundt.Bmi.Application.csproj"
-    },
-    "LevSundt.Bmi.Domain/1.0.0": {
-      "type": "project",
-      "path": "../LevSundt.Bmi.Domain/LevSundt.Bmi.Domain.csproj",
-      "msbuildProject": "../LevSundt.Bmi.Domain/LevSundt.Bmi.Domain.csproj"
-    },
-    "LevSundt.Bmi.Infrastructor/1.0.0": {
-      "type": "project",
-      "path": "../LevSundt.Bmi.Infrastructor/LevSundt.Bmi.Infrastructor.csproj",
-      "msbuildProject": "../LevSundt.Bmi.Infrastructor/LevSundt.Bmi.Infrastructor.csproj"
-    },
-    "LevSundt.SqlServerContext/1.0.0": {
-      "type": "project",
-      "path": "../LevSundt.SqlServerContext/LevSundt.SqlServerContext.csproj",
-      "msbuildProject": "../LevSundt.SqlServerContext/LevSundt.SqlServerContext.csproj"
-    },
-    "LevSundt.SqlServerContext.Migrations/1.0.0": {
-      "type": "project",
-      "path": "../LevSundt.SqlServerContext.Migrations/LevSundt.SqlServerContext.Migrations.csproj",
-      "msbuildProject": "../LevSundt.SqlServerContext.Migrations/LevSundt.SqlServerContext.Migrations.csproj"
-    },
     "LevSundt.WebApp.UserContext/1.0.0": {
       "type": "project",
       "path": "../LevSundt.WebApp.UserContext/LevSundt.WebApp.UserContext.csproj",
@@ -10553,11 +10322,6 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "LevSundt.Bmi.Application >= 1.0.0",
-      "LevSundt.Bmi.Domain >= 1.0.0",
-      "LevSundt.Bmi.Infrastructor >= 1.0.0",
-      "LevSundt.SqlServerContext >= 1.0.0",
-      "LevSundt.SqlServerContext.Migrations >= 1.0.0",
       "LevSundt.WebApp.UserContext >= 1.0.0",
       "LevSundt.WebApp.UserContext.Migrations >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.10",
@@ -10601,21 +10365,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\LevSundt.Bmi.Application.csproj": {
-              "projectPath": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Application\\LevSundt.Bmi.Application.csproj"
-            },
-            "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj": {
-              "projectPath": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Domain\\LevSundt.Bmi.Domain.csproj"
-            },
-            "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Infrastructor\\LevSundt.Bmi.Infrastructor.csproj": {
-              "projectPath": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.Bmi.Infrastructor\\LevSundt.Bmi.Infrastructor.csproj"
-            },
-            "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext.Migrations\\LevSundt.SqlServerContext.Migrations.csproj": {
-              "projectPath": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext.Migrations\\LevSundt.SqlServerContext.Migrations.csproj"
-            },
-            "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj": {
-              "projectPath": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.SqlServerContext\\LevSundt.SqlServerContext.csproj"
-            },
             "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.WebApp.UserContext.Migrations\\LevSundt.WebApp.UserContext.Migrations.csproj": {
               "projectPath": "C:\\Users\\marc\\Documents\\GitHub\\LevSundt-Semesterprojekt\\LevSundt.WebApp.UserContext.Migrations\\LevSundt.WebApp.UserContext.Migrations.csproj"
             },

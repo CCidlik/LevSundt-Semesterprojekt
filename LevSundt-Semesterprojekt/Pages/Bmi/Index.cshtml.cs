@@ -1,4 +1,5 @@
-using LevSundt.Bmi.Application.Queries;
+
+using LevSundt_Semesterprojekt.Infrastructure.Contact;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
@@ -6,18 +7,19 @@ namespace LevSundt_Semesterprojekt.Pages.Bmi;
 
 public class IndexModel : PageModel
 {
-    private readonly IBmiGetAllQuery _bmiGetAllQuery;
+    private readonly ILevSundtService _LevSundtService;
 
-    public IndexModel(IBmiGetAllQuery bmiGetAllQuery)
+    public IndexModel(ILevSundtService levSundtService)
     {
-        _bmiGetAllQuery = bmiGetAllQuery;
+
+        _LevSundtService = levSundtService;
     }
 
     [BindProperty] public List<BmiIndexViewModel> IndexViewModel { get; set; } = new();
 
-    public void OnGet()
+    public async Task OnGet()
     {
-        var businessModel = _bmiGetAllQuery.GetAll(User.Identity?.Name ?? String.Empty);
+        var businessModel = await _LevSundtService.GetAll(User.Identity?.Name ?? String.Empty);
         
         //foreach (var dto in businessModel)
         //{

@@ -1,15 +1,18 @@
-using LevSundt.Bmi.Application.Commands;
+
+using LevSundt_Semesterprojekt.Infrastructure.Contact;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using BmiCreateRequestDto = LevSundt_Semesterprojekt.Infrastructure.Contact.Dto.BmiCreateRequestDto;
 
 namespace LevSundt_Semesterprojekt.Pages.Bmi
 {
     public class CreateModel : PageModel
     {
-        private readonly ICreateBmiCommand _createBmiCommand;
-        public CreateModel(ICreateBmiCommand createBmiCommand)
+        private readonly ILevSundtService _LevSundtService;
+        public CreateModel(ILevSundtService levSundtService)
         {
-            _createBmiCommand = createBmiCommand;
+
+            _LevSundtService = levSundtService;
         }
 
         [BindProperty]
@@ -20,12 +23,12 @@ namespace LevSundt_Semesterprojekt.Pages.Bmi
             
         }
 
-        public IActionResult OnPost()
+        public async Task<IActionResult> OnPost()
         {
             if (!ModelState.IsValid) return Page();
 
             var dto = new BmiCreateRequestDto { Height = BmiModel.Height.Value, Weight = BmiModel.Weight.Value,UserId  = User.Identity?.Name ?? String.Empty };
-            _createBmiCommand.Create(dto);
+            await _LevSundtService.Create(dto);
 
 
             return new RedirectToPageResult("/Bmi/Index");
