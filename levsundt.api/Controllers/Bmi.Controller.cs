@@ -1,5 +1,7 @@
-﻿using LevSundt.Bmi.Application.Queries;
+﻿using LevSundt.Bmi.Application.Commands;
+using LevSundt.Bmi.Application.Queries;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -12,36 +14,38 @@ namespace levsundt.api.Controllers
     public class Bmi : ControllerBase
     {
         private readonly IBmiGetAllQuery _bmiGetAllQuery;
+        private readonly ICreateBmiCommand _createBmiCommand;
+        private readonly IEditBmiCommand _editBmicommand;
 
-        public Bmi(IBmiGetAllQuery bmiGetAllQuery)
+        // constructor
+        public Bmi(IBmiGetAllQuery bmiGetAllQuery, ICreateBmiCommand createBmiCommand, IEditBmiCommand editBmicommand)
         {
             _bmiGetAllQuery = bmiGetAllQuery;
+            _createBmiCommand = createBmiCommand;
+            _editBmicommand = editBmicommand;
         }
         // GET: api/<Bmi>
-        [HttpGet]
-        public IEnumerable<BmiQueryResultDto> Get()
+        [HttpGet("{UserId}")]
+        public IEnumerable<BmiQueryResultDto> Get(string UserId)
         {
-            var businessModel = _bmiGetAllQuery.GetAll(User.Identity?.Name ?? String.Empty);
-            return businessModel;
+            return _bmiGetAllQuery.GetAll(UserId);
         }
 
-        // GET api/<Bmi>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
 
         // POST api/<Bmi>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public void Post([FromBody] BmiCreateRequestDto request)
         {
+            _createBmiCommand.Create(request);
         }
 
         // PUT api/<Bmi>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        [HttpPut("{UserId}")]
+        public void Put([FromBody] BmiEditRequestDto request)
         {
+
+            _editBmicommand.Edit(request);
+
         }
 
         // DELETE api/<Bmi>/5
