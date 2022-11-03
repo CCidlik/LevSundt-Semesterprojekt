@@ -12,7 +12,7 @@ namespace levsundt.api.Controllers
 {
    
 
-    [Route("api/[controller]")]
+    [Route("api/BMI")]
     [ApiController]
     public class Bmi : ControllerBase
     {
