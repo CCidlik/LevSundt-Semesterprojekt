@@ -116,6 +116,6 @@ public class BmiEntityCreateTests
         //Act
 
         //Assert
-        Assert.Throws<ArgumentException>(() => new BmiEntity(mock.Object, 100, 100, ""));
+        Assert.Throws<ArgumentException>(() => new BmiEntity(mock.Object, 100, 100, "1"));
     }
 }

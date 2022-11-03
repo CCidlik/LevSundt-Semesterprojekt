@@ -19,7 +19,11 @@ namespace LevSundt_Semesterprojekt.Infrastructure.Implementation
 
         async Task ILevSundtService.Edit(BmiEditRequestDto BmiEditDto)
         {
-            await _httpClient.PostAsJsonAsync($"api/Bmi", BmiEditDto);
+           var response = await _httpClient.PostAsJsonAsync($"api/Bmi", BmiEditDto);
+            if (response.IsSuccessStatusCode) return;
+
+            var messege = await response.Content.ReadAsStringAsync();
+            throw new Exception(messege);
         }
 
         async Task<BmiQueryResultDto> ILevSundtService.Get(int id, string UserId)
