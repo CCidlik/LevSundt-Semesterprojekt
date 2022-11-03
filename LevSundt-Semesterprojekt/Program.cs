@@ -53,7 +53,8 @@ builder.Services.AddRazorPages(options =>
 
 // IHttpClientFactory
 //ops find ud af hvordan man fixer at api ikke peger på WEbapp altså semesterproject for os og istedet peger på det rigtige
-builder.Services.AddHttpClient<ILevSundtService, LevSundtService>(client => client.BaseAddress = new Uri(builder.Configuration["LevSundtBaseUrl"]));
+builder.Services.AddHttpClient<ILevSundtService, LevSundtService>(
+    client => client.BaseAddress = new Uri(builder.Configuration["LevSundtBaseUrl"]));
 
 ////Clean Architecture
 //builder.Services.AddScoped<ICreateBmiCommand, CreateBmiCommand>();
